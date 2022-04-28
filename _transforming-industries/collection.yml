@@ -1,5 +1,4 @@
 collections:
   transforming-industries:
     output: true
-    order:
-      - Test/.keep
+    order: []
