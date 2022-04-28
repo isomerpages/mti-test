@@ -3,7 +3,7 @@ url: ""
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#e99303"
-  secondary-color: "#ffffff"
+  secondary-color: "#4a90e2"
   media-colors:
     - title: media-color-one
       color: "#49759a"
