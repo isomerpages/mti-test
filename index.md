@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: MTI Website Test
+description: To test creating MTI Corporate website on Isomer
 image: /images/isomer-logo.svg
 permalink: /
 notification: Businesses can go to gobusiness.gov.sg/covid/ for more information
@@ -36,3 +36,4 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
