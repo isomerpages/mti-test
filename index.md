@@ -17,17 +17,15 @@ sections:
       subtitle: A leading global city of enterprise and talent, a vibrant nation of
         innovation and opportunity
       background: /images/Home/jumbotron-merlion.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Committee of Supply (COS) 2022
+          description: Singapore Economy 2030
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Singapore-India Economic Agreement
+          description: CECA
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Digital Economy Agreements
+          description: Digital Trade
           url: /privacy/
   - infobar:
       title: Infobar title
