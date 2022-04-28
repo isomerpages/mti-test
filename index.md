@@ -4,10 +4,10 @@ title: MTI Website Test
 description: To test creating MTI Corporate website on Isomer
 image: /images/isomer-logo.svg
 permalink: /
-notification: '<p style="font-size: 0.3m">Businesses can go to <a
+notification: '<p style="font-size: 0.8em">Businesses can go to <a
   href="gobusiness.gov.sg/covid/"
   rel="nofollow">gobusiness.gov.sg/covid/</a>  for more information regarding
-  the temporary suspension of activities.</p> <p style="font-size: 0.3m">For
+  the temporary suspension of activities.</p> <p style="font-size: 0.8em">For
   more information on special travel arrangements that Singapore has implemented
   with other countries/regions, please go to <a
   href="https://safetravel.ica.gov.sg"
