@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Careers.md
-      - MTI Family.md
-      - People at MTI.md
       - About MTI.md
+      - People at MTI.md
+      - MTI Family.md
+      - Careers.md
