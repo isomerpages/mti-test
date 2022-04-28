@@ -16,7 +16,7 @@ sections:
       title: Ministry of Trade & Industry
       subtitle: A leading global city of enterprise and talent, a vibrant nation of
         innovation and opportunity
-      background: /images/hero-banner.png
+      background: /images/Home/jumbotron-merlion.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
