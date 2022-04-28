@@ -27,14 +27,20 @@ sections:
         - title: Digital Economy Agreements
           description: Digital Trade
           url: /privacy/
+        - title: Budget 2022
+          description: Charting our new way forward
+          url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Economic Survey of Singapore 2021
+      description: Singapore economy grew by 7.6% in 2021 year-on-year
+      button: Read more
       url: /faq/
+  - infobar:
+      title: Key Economics Indicator
+      description: Advance GDP Estimates +3.4% ....
+      button: Read more
+      url: https://
   - resources:
-      title: Media
-      subtitle: Learn more
+      title: Resources
       button: View More
 ---
