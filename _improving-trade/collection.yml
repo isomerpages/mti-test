@@ -2,6 +2,7 @@ collections:
   improving-trade:
     output: true
     order:
+      - Free Trade Agreements/Future Economy Council.md
       - Free Trade Agreements/CPTPP.md
       - Free Trade Agreements/CECA.md
       - Free Trade Agreements/.keep
