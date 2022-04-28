@@ -1,4 +1,5 @@
 collections:
   improving-trade:
     output: true
-    order: []
+    order:
+      - Free Trade Agreements/.keep
