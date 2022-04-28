@@ -2,8 +2,8 @@ title: MTI Website Test
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#edc37c"
-  secondary-color: "#f8a529"
+  primary-color: "#c7b293"
+  secondary-color: "#fc9803"
   media-colors:
     - title: media-color-one
       color: "#49759a"
