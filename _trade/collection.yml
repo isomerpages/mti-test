@@ -1,5 +1,5 @@
 collections:
-  improving-trade:
+  trade:
     output: true
     order:
       - Digital Economy Agreements/Learning About.md
