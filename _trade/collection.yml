@@ -2,6 +2,7 @@ collections:
   trade:
     output: true
     order:
+      - Multilateral & Regional Forums/Asia Europe Meeting (ASEM).md
       - Multilateral & Regional Forums/Overview.md
       - Multilateral & Regional Forums/.keep
       - Digital Economy Agreements/Learning About.md
