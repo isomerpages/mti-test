@@ -3,7 +3,7 @@ url: ""
 favicon: /images/mti-favicon.png
 colors:
   primary-color: "#e99303"
-  secondary-color: "#4a90e2"
+  secondary-color: "#417505"
   media-colors:
     - title: media-color-one
       color: "#49759a"
