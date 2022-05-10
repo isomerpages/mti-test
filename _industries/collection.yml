@@ -2,6 +2,6 @@ collections:
   industries:
     output: true
     order:
-      - For Industries.md
-      - For Enterprises.md
       - For Individuals.md
+      - For Enterprises.md
+      - For Industries.md
