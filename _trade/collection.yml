@@ -2,6 +2,7 @@ collections:
   trade:
     output: true
     order:
+      - Multilateral & Regional Forums/World Trade Organization (WTO).md
       - Multilateral & Regional Forums/Group of Twenty (G20).md
       - Multilateral & Regional Forums/Association of Southeast Asian Nations
         (ASEAN).md
