@@ -2,6 +2,7 @@ collections:
   trade:
     output: true
     order:
+      - Multilateral & Regional Forums/.keep
       - Digital Economy Agreements/Learning About.md
       - Digital Economy Agreements/.keep
       - Free Trade Agreements/.keep
