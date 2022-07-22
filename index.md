@@ -4,9 +4,7 @@ title: MTI Website Test
 description: To test creating MTI Corporate website on Isomer
 image: /images/isomer-logo.svg
 permalink: /
-notification: Businesses can go to <a href="gobusiness.gov.sg/covid/"
-  rel="nofollow">gobusiness.gov.sg/covid/</a>  for more information regarding
-  the temporary suspension of activities.
+notification: Website will be under maintenance on 22 Jul 2022 from 10PM-2AM.
 sections:
   - hero:
       title: Ministry of Trade & Industry
