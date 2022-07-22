@@ -10,7 +10,7 @@ sections:
       title: Ministry of Trade & Industry
       subtitle: A leading global city of enterprise and talent, a vibrant nation of
         innovation and opportunity
-      background: /images/Home/jumbotron-merlion.jpg
+      background: /images/Home/Homepage _Banner.jpg
       key_highlights:
         - title: Committee of Supply (COS) 2022
           description: Singapore Economy 2030
