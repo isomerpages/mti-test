@@ -37,4 +37,13 @@ sections:
   - resources:
       title: Resources
       button: View More
+  - infopic:
+      title: Key Economic Indicators
+      subtitle: Singapore
+      description: Singapore’s economy expanded by 3.7% year-on-year in the first
+        quarter of 2022.
+      button: Read more
+      url: /test
+      image: /images/Home/Homepage _EconomicIndicators.jpg
+      alt: Key economic indicators
 ---
