@@ -25,8 +25,9 @@ sections:
           description: Charting our new way forward
           url: ""
   - infobar:
-      title: Economic Survey of Singapore 2021
-      description: Singapore economy grew by 7.6% in 2021 year-on-year
+      title: Economic Survey of Singapore 2022
+      description: Singapore’s economy expanded by 3.7% year-on-year in the first
+        quarter of 2022.
       button: Read more
       url: /faq/
       subtitle: Survey
