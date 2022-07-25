@@ -16,16 +16,16 @@ The DEPA includes the following key features:
 
 #### Reference Material
 
-[Digital Economy Partnership Agreement](https://www.mti.gov.sg/-/media/MTI/Microsites/DEAs/Digital-Economy-Partnership-Agreement/Digital-Economy-Partnership-Agreement.pdf)
+[Digital Economy Partnership Agreement](/files/Trade/DEA/DEPA/Digital%20Economy%20Partnership%20Agreement.pdf)
 
 #### Press Releases
 
-[5 October 2021 - Minister Gan Kim Yong Participates in Meeting on the Digital Economy Partnership Agreement](https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2021/10/Minister-Gan-Kim-Yong-participates-in-Mtg-on-the-Digital-Economy-Partnership-Agreement.pdf)
+[5 October 2021 - Minister Gan Kim Yong Participates in Meeting on the Digital Economy Partnership Agreement](/files/Trade/DEA/DEPA/Minister%20Gan%20Kim%20Yong%20participates%20in%20Mtg%20on%20the%20Digital%20Economy%20Partnership%20Agreement.pdf)
 
-[28 December 2020 - Digital Economy Partnership Agreement Enters into Force](https://www.mti.gov.sg/-/media/MTI/Microsites/DEAs/Digital-Economy-Partnership-Agreement/28-Dec-20020---Press-Release---Digital-Economy-Partnership-Agreement-Enters-into-Force.pdf)
+[28 December 2020 - Digital Economy Partnership Agreement Enters into Force](/files/Trade/DEA/DEPA/28%20Dec%2020020%20-%20Press%20Release%20-%20Digital%20Economy%20Partnership%20Agreement%20Enters%20into%20Force.pdf)
 
-[12 June 2020 - Singapore, Chile and New Zealand Sign Digital Economy Partnership Agreement Electronically](https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2020/06/Joint-Press-Release--Electronic-Signing-of-Digital-Economy-Partnership-Agreement-12-June-Updated-URL.pdf)
+[12 June 2020 - Singapore, Chile and New Zealand Sign Digital Economy Partnership Agreement Electronically](/files/Trade/DEA/DEPA/Joint%20Press%20Release%20Electronic%20Signing%20of%20Digital%20Economy%20Partnership%20Agreement%2012%20June.pdf)
 
-[21 January 2020 - Singapore Substantially Concludes Negotiations for Digital Economy Partnership Agreement with Chile and New Zealand](https://www.mti.gov.sg/-/media/MTI/Microsites/DEAs/Digital-Economy-Partnership-Agreement/Joint-Press-Release-SG-Substantially-Concludes-Negotiations-for-Di.pdf)
+[21 January 2020 - Singapore Substantially Concludes Negotiations for Digital Economy Partnership Agreement with Chile and New Zealand](/files/Trade/DEA/DEPA/Joint%20Press%20Release-SG%20Substantially%20Concludes%20Negotiations%20for%20Di.pdf)
 
-[17 May 2019 - Singapore Leads the Way in New Digital Economy Partnership Agreement with Chile and New Zealand](https://www.mti.gov.sg/-/media/MTI/Microsites/DEAs/Digital-Economy-Partnership-Agreement/Press-release-on-the-start-of-DEPA-negotiations--May-2019.pdf)
+[17 May 2019 - Singapore Leads the Way in New Digital Economy Partnership Agreement with Chile and New Zealand](/files/Trade/DEA/DEPA/Press%20release%20on%20the%20start%20of%20DEPA%20negotiations%20%20May%202019.pdf)
