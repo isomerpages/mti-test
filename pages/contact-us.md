@@ -12,7 +12,7 @@ locations:
       - days: Mon - Fri
         time: 9.00am to 6.00pm
         description: "Sat, Sun and Public Holidays: Closed"
-    maps_link: ""
+    maps_link: https://www.onemap.gov.sg/main/v2/?lat=1.29067063202431&lng=103.849819680672
     title: Ministry of Trade and Industry
 contacts:
   - content:
