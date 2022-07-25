@@ -19,4 +19,10 @@ Our government department is: Singapore Department of Statistics (DOS). As the N
 | <img src="/images/About%20Us/MTI%20Family/MTIFamily%20_AStarLogo.jpg" alt="A-Star Logo" style="width:200px;height=50px"> | [Agency for Science, Technology & Research](http://www.a-star.edu.sg/)<br>Advancing science and developing innovative technology to further economic growth and improve lives. |
 | <img src="/images/About%20Us/MTI%20Family/MTIFamily%20_CCCSLogo.jpg" alt="CCCS Logo" style="width:200px;height=50px"> | [Competition & Consumer Commission](http://www.cccs.gov.sg/)<br>Making markets work well to create opportunities and choices for businesses and consumers. |
 
-> Reduce column width for images?
+**Alternative Options:**
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| <a href="https://www.singstat.gov.sg/"> <img src="/images/About%20Us/MTI%20Family/MTIFamily%20_DOSLogo.jpg" alt="DOS logo" style="width:200px;height=50px" title="Delivering insightful statistics and statistical services."> </a> | <a href="http://www.a-star.edu.sg/"> <img src="/images/About%20Us/MTI%20Family/MTIFamily%20_AStarLogo.jpg" alt="A-Star Logo" style="width:200px;height=50px" title="Advancing science and developing innovative technology to further economic growth and improve lives."> </a>     | <a href="http://www.cccs.gov.sg/"><img src="/images/About%20Us/MTI%20Family/MTIFamily%20_CCCSLogo.jpg" alt="CCCS Logo" style="width:200px;height=50px" title="Making markets work well to create opportunities and choices for businesses and consumers."></a>     |
+
