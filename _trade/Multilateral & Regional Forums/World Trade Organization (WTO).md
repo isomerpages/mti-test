@@ -29,5 +29,5 @@ More information can be found on the [official WTO website](https://www.wto.org
 
 
 <hr>
-<p id="footnote-1" style="font-size:80%">[1] Australia, Benin, Brazil, Canada, Chile, Colombia, Costa Rica, Ecuador, EU, Guatemala, Hong Kong, Iceland, Mexico, Montenegro, New Zealand, Nicaragua, Norway, Pakistan, Singapore, Switzerland, Ukraine, and Uruguay.</p>
-<p id="footnote-2" style="font-size:80%">[2] José Alfredo Graça Lima (Brazil) Valerie Hughes (Canada), Alejandro Jara (Chile), Guohua Yang (China), Claudia Orozco (Colombia), Joost Pauwelyn (EU), Mateo Diego-Fernandez Andrade (Mexico), Penelope Ridings (New Zealand), Locknie Hsu (Singapore), and Thomas Cottier (Switzerland).</p>
+<span id="footnote-1" style="font-size:80%">[1] Australia, Benin, Brazil, Canada, Chile, Colombia, Costa Rica, Ecuador, EU, Guatemala, Hong Kong, Iceland, Mexico, Montenegro, New Zealand, Nicaragua, Norway, Pakistan, Singapore, Switzerland, Ukraine, and Uruguay.<br>
+<span id="footnote-2" style="font-size:80%">[2] José Alfredo Graça Lima (Brazil) Valerie Hughes (Canada), Alejandro Jara (Chile), Guohua Yang (China), Claudia Orozco (Colombia), Joost Pauwelyn (EU), Mateo Diego-Fernandez Andrade (Mexico), Penelope Ridings (New Zealand), Locknie Hsu (Singapore), and Thomas Cottier (Switzerland).
