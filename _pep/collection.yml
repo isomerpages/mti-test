@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About.md
+      - PEP Suggestion/Submit PEP Suggestion.md
       - PEP Suggestion/Public Sector PEP Initiative.md
       - PEP Suggestion/Past PEP Suggestions & Outcomes.md
       - PEP Suggestion/PEP FAQs.md
