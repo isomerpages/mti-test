@@ -2,4 +2,5 @@ collections:
   newsroom:
     output: true
     order:
+      - COVID19 Updates For Businesses/Latest Advisories.md
       - COVID19 Updates For Businesses/.keep
