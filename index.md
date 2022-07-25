@@ -23,7 +23,7 @@ sections:
           url: /privacy/
         - title: Budget 2022
           description: Charting our new way forward
-          url: ""
+          url: https://www.mof.gov.sg/singaporebudget
   - infobar:
       title: Economic Survey of Singapore 2022
       description: Singapore’s economy expanded by 3.7% year-on-year in the first
