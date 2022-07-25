@@ -8,7 +8,7 @@ third_nav_title: COVID19 Updates For Businesses
 
 <table style="width:100%;">
  <tr>
-	 <td style="width:20%;">
+	 <td style="width:15%;">
 		 <p>10 Jun 2022</p>
 	 </td>
 	 <td>
@@ -20,4 +20,18 @@ third_nav_title: COVID19 Updates For Businesses
 	 </td>
 	</tr>
 	
+<tr>
+	<td style="width:20%;">
+		<p>22 Apr 2022</p>
+	</td>
+	<td>
+		<p>
+			<b>Updated Advisory</b>
+			<ul>
+				<li><a href="https://www.moh.gov.sg/news-highlights/details/further-easing-of-community-and-border-measures">MOH Advisory on further easing of community and border measures</a></li>
+			</ul>
+		</p>
+	</td>
+</tr>
+
 </table>
