@@ -2,4 +2,5 @@ collections:
   cos-2022:
     output: true
     order:
+      - Committee of Supply 2022/.keep
       - Factsheets on Key Announcements.md
