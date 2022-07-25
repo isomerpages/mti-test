@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About MTI.md
+      - People at MTI/Mr Gan Kim Yong.md
       - People at MTI/.keep
       - People at MTI/People at MTI.md
       - People at MTI/Gan Kim Yong.md
