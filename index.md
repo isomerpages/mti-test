@@ -20,7 +20,7 @@ sections:
           url: https://gmail.com
         - title: Digital Economy Agreements
           description: Digital Trade
-          url: /privacy/
+          url: /trade/digital-economy-agreements/overview
         - title: Budget 2022
           description: Charting our new way forward
           url: https://www.mof.gov.sg/singaporebudget
