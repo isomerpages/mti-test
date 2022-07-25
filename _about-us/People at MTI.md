@@ -11,3 +11,49 @@ There are altogether nine statutory boards and one government department under t
 
 > (to insert leaders here)
 
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+			<label for="accordion1">ASEAN Division</label>
+    <div>
+      <p>The ASEAN Division formulates and reviews Singapore's foreign economic policy at the ASEAN fora, to ensure that Singapore remains economically relevant and competitive. The division's portfolio includes ASEAN integration issues and ASEAN external relations. </p>      
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Chongqing Connectivity Initiative Office</label>
+    <div>
+      <p>The Chongqing Connectivity Initiative Office plays a key role in deepening Singapore's bilateral engagement with China through the implementation of the third Government-to-Government project in Western China, the Chongqing Connectivity Initiative (CCI).</p>
+      <p>Through the promotion of Singapore companies' participation in Chongqing’s economy, the CCI seeks to create greater opportunities for Singapore companies to internationalise, leveraging Chongqing as a gateway to expand their presence in Western China.</p>
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Communications and Engagement Division</label>
+    <div>
+			<p>The Communications and Engagement Division is responsible for communicating MTI’s policies to external stakeholders such as the business community, industry players, as well as the general public. The Division oversees the areas of public relations, media relations, stakeholder engagement, strategic messaging as well as marketing and digital communications for the Ministry. It works closely with the other Divisions within MTI to profile MTI’s work in developing a vibrant and dynamic Singapore economy. The Division also manages the Ministry’s website and quality service functions, which serve as crucial touchpoints between the Ministry and the public.</p>      
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Corporate Operations Division</label>
+    <div>
+			<p>The Corporate Operations Division plays a vital role towards achieving its strategic goal of a High Performing Organisation for MTI. It establishes robust corporate policies, IT systems and formulates strategies for the organisational performance in line with MTI’s mission and vision. In addition, it is also responsible for MTI’s National Emergency preparation and peacetime crisis response plans in support of the government. These include scenario and business continuity planning and exercising of contingency plans against various national security scenarios.</p>
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">How will the CAP follow up on the feedback raised?</label>
+    <div>
+			<p>The CAP works closely with partner agencies and organisations, including the Competition and Consumer Commission of Singapore (CCCS), the People’s Association (PA), and the Consumers Association of Singapore (CASE), to assess the feedback provided on unjustified price increases of essential goods and services that use the GST increase as a cover, and engage the relevant businesses where necessary to find out reasons for the price increase. </p>
+      <p>As part of the investigation process, the CAP will evaluate the explanations provided by the business for the price increase, to determine if it constitutes profiteering on the GST increase. The CAP may make public errant businesses that seek to profiteer on the pretext of the rise in GST.</p>
+    </div>
+  </li>
+	<li>
+    <input type="checkbox" id="accordion6">
+			<label for="accordion6">What support can I get to cope with rising prices?</label>
+    <div>
+			<p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more <a href="https://www.mof.gov.sg/singaporebudget/resources/support-for-households" target="_blank">here</a> . </p>
+    </div>
+  </li>
+</ul>
