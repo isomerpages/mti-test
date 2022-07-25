@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Committee of Supply (COS) 2022
           description: Singapore Economy 2030
-          url: https://google.com
+          url: /cos-2022/committee-of-supply-2022/overview
         - title: Singapore-India Economic Agreement
           description: CECA
           url: https://gmail.com
