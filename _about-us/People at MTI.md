@@ -41,19 +41,4 @@ There are altogether nine statutory boards and one government department under t
 			<p>The Corporate Operations Division plays a vital role towards achieving its strategic goal of a High Performing Organisation for MTI. It establishes robust corporate policies, IT systems and formulates strategies for the organisational performance in line with MTI’s mission and vision. In addition, it is also responsible for MTI’s National Emergency preparation and peacetime crisis response plans in support of the government. These include scenario and business continuity planning and exercising of contingency plans against various national security scenarios.</p>
     </div>
   </li>
-	<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">How will the CAP follow up on the feedback raised?</label>
-    <div>
-			<p>The CAP works closely with partner agencies and organisations, including the Competition and Consumer Commission of Singapore (CCCS), the People’s Association (PA), and the Consumers Association of Singapore (CASE), to assess the feedback provided on unjustified price increases of essential goods and services that use the GST increase as a cover, and engage the relevant businesses where necessary to find out reasons for the price increase. </p>
-      <p>As part of the investigation process, the CAP will evaluate the explanations provided by the business for the price increase, to determine if it constitutes profiteering on the GST increase. The CAP may make public errant businesses that seek to profiteer on the pretext of the rise in GST.</p>
-    </div>
-  </li>
-	<li>
-    <input type="checkbox" id="accordion6">
-			<label for="accordion6">What support can I get to cope with rising prices?</label>
-    <div>
-			<p>There are many schemes rolled out by the Government to help Singaporeans in need. Read more <a href="https://www.mof.gov.sg/singaporebudget/resources/support-for-households" target="_blank">here</a> . </p>
-    </div>
-  </li>
 </ul>
