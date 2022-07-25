@@ -15,9 +15,9 @@ Our government department is: Singapore Department of Statistics (DOS). As the N
 
 |  | |
 | -------- | -------- |
-| ![DOS Logo](/images/About%20Us/MTI%20Family/MTIFamily%20_DOSLogo.jpg) | [Department of Statistics (DOS)](https://www.singstat.gov.sg/)<br> Delivering insightful statistics and statistical services. |
-| ![A-Star Logo](/images/About%20Us/MTI%20Family/MTIFamily%20_AStarLogo.jpg) | [Agency for Science, Technology & Research](http://www.a-star.edu.sg/): Advancing science and developing innovative technology to further economic growth and improve lives. |
-| ![CCCS Logo](/images/About%20Us/MTI%20Family/MTIFamily%20_CCCSLogo.jpg) | [Competition & Consumer Commission](http://www.cccs.gov.sg/): Making markets work well to create opportunities and choices for businesses and consumers. |
-| <img src="/images/About%20Us/MTI%20Family/MTIFamily%20_CCCSLogo.jpg" alt="CCCS Logo" width="50" height="20"> | [Competition & Consumer Commission](http://www.cccs.gov.sg/): Making markets work well to create opportunities and choices for businesses and consumers. |
+| ![DOS Logo](/images/About%20Us/MTI%20Family/MTIFamily%20_DOSLogo.jpg) | [Department of Statistics (DOS)](https://www.singstat.gov.sg/)<br>Delivering insightful statistics and statistical services. |
+| ![A-Star Logo](/images/About%20Us/MTI%20Family/MTIFamily%20_AStarLogo.jpg) | [Agency for Science, Technology & Research](http://www.a-star.edu.sg/)<br>Advancing science and developing innovative technology to further economic growth and improve lives. |
+| ![CCCS Logo](/images/About%20Us/MTI%20Family/MTIFamily%20_CCCSLogo.jpg) | [Competition & Consumer Commission](http://www.cccs.gov.sg/)<br>Making markets work well to create opportunities and choices for businesses and consumers. |
+| <img src="/images/About%20Us/MTI%20Family/MTIFamily%20_CCCSLogo.jpg" alt="CCCS Logo" width="50" height="20"> | [Competition & Consumer Commission](http://www.cccs.gov.sg/)<br>Making markets work well to create opportunities and choices for businesses and consumers. |
 
-> Unable to specific width & height of images. SHould resize images with appropriate size?
+> Unable to specify width & height of images. Should resize images with appropriate size?
