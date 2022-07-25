@@ -15,10 +15,12 @@ A Digital Economy Agreement (DEA) is a treaty that establishes digital trade rul
 The DEAs aim to build on Singapore’s extensive network of free trade agreements and other digital cooperation initiatives. They also complement Singapore’s leadership role at the World Trade Organisation (WTO) as the co-convener (together with Australia and Japan) of the Joint Statement Initiative on E-Commerce (JSI).
 
 Singapore has concluded negotiations on four DEAs:
-1. Digital Economy Partnership Agreement (DEPA) – with Chile and New Zealand;
-2. Singapore-Australia Digital Economy Agreement (SADEA) (which has entered in force on 8 December 2020)
-3. United Kingdom-Singapore Digital Economy Agreement (UKSDEA) (which has entered in force on 14 June 2022); and 
-4. Korea-Singapore Digital Partnership Agreement (KSDPA)
+<ol type="1">
+	<li>Digital Economy Partnership Agreement (DEPA) – with Chile and New Zealand;</li>
+ <li>Singapore-Australia Digital Economy Agreement (SADEA) (which has entered in force on 8 December 2020)</li>
+ <li>United Kingdom-Singapore Digital Economy Agreement (UKSDEA) (which has entered in force on 14 June 2022); and</li>
+	<li>Korea-Singapore Digital Partnership Agreement (KSDPA)</li>
+</ol>
 
 We hope to conclude further agreements with other like-minded economies in the future.  
 
@@ -39,10 +41,11 @@ The digitalisation of trade has also brought greater attention to regulations wh
 The DEAs aim to address these challenges to better enable our businesses, including SMEs to connect internationally with partners overseas.
 
 The DEAs will:
-
-1.  Align digital rules and standards, and facilitate interoperability between digital systems;
-2.  Support cross border data flows and safeguard personal data and consumer rights; and
-3.  Encourage cooperation between Singapore’s economic partners in nascent areas such as digital identities, Artificial Intelligence (AI) and data innovation. This gives organisations the scope to trial use-cases and technologies across different countries.
+<ol type="1">
+	<li>Align digital rules and standards, and facilitate interoperability between digital systems;</li>
+	<li>Support cross border data flows and safeguard personal data and consumer rights; and</li>
+ <li>Encourage cooperation between Singapore’s economic partners in nascent areas such as digital identities, Artificial Intelligence (AI) and data innovation. This gives organisations the scope to trial use-cases and technologies across different countries.</li>
+</ol>
 
 ![How DEA](/images/Trade/Digital%20Economy%20Agreements/DEA%20_HowDEAs.jpg)
 
