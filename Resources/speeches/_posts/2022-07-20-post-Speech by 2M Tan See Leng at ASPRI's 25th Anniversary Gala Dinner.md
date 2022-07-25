@@ -32,11 +32,8 @@ Ladies and Gentlemen,
 4. Against this backdrop, ASPRI stepped up to facilitate open and constructive dialogues with key industry stakeholders including PCM companies, plant owners, Singapore Chemicals Industry Council (SCIC), and government bodies.
 
 <ol type="a">
-  <li>The pandemic has been particularly challenging for many companies in the PCM sector.</li>
-<li>Many companies remained nimble and adapted quickly to multiple uncertainties, including border restrictions and supply chain disruptions.</li>
+  <li>You kept members updated on developments, continued plant maintenance, and tended to the welfare of workers in your sector.</li>
   </ol>
-
-a. You kept members updated on developments, continued plant maintenance, and tended to the welfare of workers in your sector.
 
 5. The experience of navigating COVID-19 and border closures has accelerated digital transformation efforts within the PCM sector.
 
