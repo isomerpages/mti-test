@@ -12,7 +12,7 @@ As a small and open economy with a high reliance on trade, Singapore is a strong
 
 Singapore is an active WTO Member. We are parties to major WTO agreements like the Information Technology Agreement, Government Procurement Agreement, as well as the Trade Facilitation Agreement. More recently, Singapore along with Australia and Japan are co-convenors of the Joint Statement Initiative (JSI) on Electronic Commerce, launched at the 11th Ministerial Conference (MC11) in Buenos Aires, Argentina. The JSI aims to develop new rules on trade-related aspects of e-commerce that are relevant to our modern economy and update the WTO rule book. To-date, more than half the WTO Membership have signed on to the JSI, and JSI negotiations are ongoing.  
 
-As of December 2020, JSI participants have developed a consolidated negotiating text that captures the progress and convergence achieved thus far. The JSI aims to achieve substantial progress by the 12th WTO Ministerial Conference in 2021. The co-convenors’ update on the current state of play of the JSI negotiations can be found [here](https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/WTO/JSI-E-Commerce-Co-Convenors-Public-Update-final-7-Dec-20209-RELEASE.pdf).
+As of December 2020, JSI participants have developed a consolidated negotiating text that captures the progress and convergence achieved thus far. The JSI aims to achieve substantial progress by the 12th WTO Ministerial Conference in 2021. The co-convenors’ update on the current state of play of the JSI negotiations can be found [here](/files/Trade/Multilateral%20&%20Regional%20Forums/JSI-E-Commerce-Co-Convenors-Public-Update-final-7-Dec-20209-RELEASE.pdf).
 
 #### WTO’s Response to COVID-19
   
