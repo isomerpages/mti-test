@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - People at MTI/Gan Kim Yong.md
       - People at MTI/People at MTI.md
       - People at MTI/.keep
       - About MTI.md
