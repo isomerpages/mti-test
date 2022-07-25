@@ -2,8 +2,8 @@ collections:
   newsroom:
     output: true
     order:
-      - Public Consultation.md
-      - Legislation/.keep
+      - COVID19 Updates For Businesses/.keep
       - COVID19 Updates For Businesses/Latest Updates.md
       - COVID19 Updates For Businesses/Latest Advisories.md
-      - COVID19 Updates For Businesses/.keep
+      - Public Consultation.md
+      - Legislation/.keep
