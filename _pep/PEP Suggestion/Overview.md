@@ -12,3 +12,4 @@ The Pro-Enterprise Panel (PEP) welcomes your feedback. We will work with the gov
   
 Click [here](https://form.gov.sg/#!/5e45fecc2cdbcc001134b925) to submit your suggestion.
 
+![Infographic](/images/PEP/PEP%20Suggestion/PEPSuggestion%20_Infographic.jpg)
