@@ -4,6 +4,8 @@ permalink: /cos-2022/Committee-of-Supply-2022/Overview
 description: ""
 third_nav_title: Committee of Supply 2022
 ---
+![Banner](/images/COS%202022/COS2022%20_Banner.jpg)
+
 ## Committee of Supply (COS) 2022
 
 This year, the Ministry of Trade and Industry’s COS focused on our continued commitment to go the distance with businesses and workers.  
