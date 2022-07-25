@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - About.md
+      - PEP Suggestion/Past PEP Suggestions & Outcomes.md
       - PEP Suggestion/PEP FAQs.md
       - PEP Suggestion/.keep
