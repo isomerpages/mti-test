@@ -12,8 +12,7 @@ description: ""
     <td style="width:20%;"><img src="/images/COS%202022/Factsheets/FactSheets%20_icon2.png" alt="icon 2" style="width:100px;height=20px"></td>
 			<td style="padding-top:40px"><a href="/files/COS%202022/Factsheets/6%20MTI%20COS%202022%20Media%20Factsheet%20%20Enterprise%20Financing%20Scheme%20Mergers%20and%20Acquisition%20Loan.pdf">Enterprise Financing Scheme (EFS): Mergers & Acquisition Loan</a></td>
   </tr>
-	</tr>
-  <tr>
+	<tr>
     <td style="width:20%;"><img src="/images/COS%202022/Factsheets/FactSheets%20_icon2.png" alt="icon 2" style="width:100px;height=20px"></td>
 			<td style="padding-top:40px"><a href="/files/COS%202022/Factsheets/7%20MTI%20COS%202022%20Media%20Factsheet%20%20Enterprise%20Financing%20Scheme%20Trade%20Loan.pdf">Enterprise Financing Scheme (EFS): Trade Loan</a></td>
   </tr>
