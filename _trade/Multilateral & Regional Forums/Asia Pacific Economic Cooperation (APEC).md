@@ -4,6 +4,8 @@ permalink: /trade/Multilateral-and-Regional-Forums/Asia-Pacific-Economic-Coopera
 description: ""
 third_nav_title: Multilateral & Regional Forums
 ---
+![Banner](/images/Trade/Multilateral%20&%20Regional%20Forums/Multilateral%20_Banner.jpg)
+
 ## Asia-Pacific Economic Cooperation (APEC)
 
 [Asia-Pacific Economic Cooperation (APEC)](https://www.apec.org/) is a forum of 21 Asia-Pacific economies. It was established in 1989 in response to the growing interdependence among Asia-Pacific economies and the advent of regional trade blocs in other parts of the world. Its primary purpose is to promote sustainable economic growth and prosperity in the Asia-Pacific region. Singapore was a founding member alongside 11 other economies.  
