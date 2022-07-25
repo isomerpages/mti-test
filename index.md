@@ -53,6 +53,7 @@ sections:
       button: Click here to find out more
       url: https://www.ema.gov.sg/oem-retailer-exit-consumer-safeguards.aspx
       alt: Safeguards for Consumers
+      image: /images/Home/Home _SafeguardsElectricity.jpg
   - resources:
       title: Resources
       button: View More
