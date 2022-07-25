@@ -1,4 +1,5 @@
 collections:
   cos-2022:
     output: true
-    order: []
+    order:
+      - Factsheets on Key Announcements.md
