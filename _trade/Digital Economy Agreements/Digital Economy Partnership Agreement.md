@@ -22,7 +22,6 @@ The DEPA includes the following key features:
 <h4 style="background-color:lightgray;">Press Releases</h4>
 
 <small>[5 October 2021 - Minister Gan Kim Yong Participates in Meeting on the Digital Economy Partnership Agreement](/files/Trade/DEA/DEPA/Minister%20Gan%20Kim%20Yong%20participates%20in%20Mtg%20on%20the%20Digital%20Economy%20Partnership%20Agreement.pdf)</small>
-
 <small>[28 December 2020 - Digital Economy Partnership Agreement Enters into Force](/files/Trade/DEA/DEPA/28%20Dec%2020020%20-%20Press%20Release%20-%20Digital%20Economy%20Partnership%20Agreement%20Enters%20into%20Force.pdf)</small>
 
 <small>[12 June 2020 - Singapore, Chile and New Zealand Sign Digital Economy Partnership Agreement Electronically](/files/Trade/DEA/DEPA/Joint%20Press%20Release%20Electronic%20Signing%20of%20Digital%20Economy%20Partnership%20Agreement%2012%20June.pdf)</small>
