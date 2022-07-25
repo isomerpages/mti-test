@@ -2,6 +2,7 @@ collections:
   cos-2022:
     output: true
     order:
+      - Committee of Supply 2022/Developing Enterprises of the Future.md
       - Committee of Supply 2022/Pushing the Boundaries in a Digital and
         Connected Economy.md
       - Committee of Supply 2022/Building our Economy Together as One.md
