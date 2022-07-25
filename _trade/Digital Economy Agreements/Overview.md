@@ -7,7 +7,7 @@ third_nav_title: Digital Economy Agreements
 ![DEA Banner](/images/Trade/Digital%20Economy%20Agreements/DEA%20_Banner.png)
 
 <div style="border-bottom: hidden; overflow: hidden">
-<h4><img src="/images/Trade/Digital%20Economy%20Agreements/DEA%20_WhatDEA.png" alt="What are DEAs" style="float:left;width:150px;height:150px;">What are Digital Economy Agreements (DEAs)?</h4>
+<h4><img src="/images/Trade/Digital%20Economy%20Agreements/DEA%20_WhatDEA.png" alt="What are DEAs" style="float:left;width:150px;height:150px;"><br>What are Digital Economy Agreements (DEAs)?</h4>
 </div>
 
 A Digital Economy Agreement (DEA) is a treaty that establishes digital trade rules and digital economy collaborations between two or more economies. Through DEAs with key partners, Singapore hopes to develop international frameworks to foster interoperability of standards and systems and support our businesses, especially SMEs, engaging in digital trade and electronic commerce.
@@ -29,7 +29,7 @@ We are continually seeking to improve our DEAs and ensure that these agreements 
 ![Why DEA](/images/Trade/Digital%20Economy%20Agreements/DEA%20_WhyDEAs.jpg)
 
 <div style="border-bottom: hidden; overflow: hidden">
-<h4><img src="/images/Trade/Digital%20Economy%20Agreements/DEA%20_WhyDEA.png" alt="What are DEAs" style="float:left;width:150px;height:150px">Why are DEAs important for Singapore?</h4>
+<h4><img src="/images/Trade/Digital%20Economy%20Agreements/DEA%20_WhyDEA.png" alt="What are DEAs" style="float:left;width:150px;height:150px"><br>Why are DEAs important for Singapore?</h4>
 </div>
 
 The digital economy is the future. Digitalisation and technological disruption, accelerated by the impact of the COVID-19 pandemic, have transformed consumer behaviours and business models considerably and created new opportunities. For example, e-commerce has enabled manufacturers to reach consumers directly. The rise of platforms and apps with multiple integrated services from transport to finance and telemedicine have changed how services are consumed. Businesses are also increasingly reliant on electronic transactions and digital solutions, from sourcing to invoicing and payments. Secure and seamless cross-border data flows are essential to the growth of the digital economy and to ensure that consumer’s interests are safeguarded.
@@ -47,7 +47,7 @@ The DEAs will:
 ![How DEA](/images/Trade/Digital%20Economy%20Agreements/DEA%20_HowDEAs.jpg)
 
 <div style="border-bottom: hidden; overflow: hidden">
-<h4><img src="/images/Trade/Digital%20Economy%20Agreements/DEA%20_HowDEA.png" alt="What are DEAs" style="float:left;width:150px;height:150px">How can business benefit from the DEAs?</h4>
+<h4><img src="/images/Trade/Digital%20Economy%20Agreements/DEA%20_HowDEA.png" alt="What are DEAs" style="float:left;width:150px;height:150px"><br>How can business benefit from the DEAs?</h4>
 </div>
 
 The DEAs establish common frameworks and rules for digital trade that will enable companies in Singapore to connect digitally with their overseas partners more seamlessly. The goals of the DEAs are ultimately to lower the cost of operations, increase business efficiency and create more seamless and easier access to overseas markets.
