@@ -16,13 +16,33 @@ locations:
     title: Ministry of Trade and Industry
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: 1 800 221 3005
+      - email: mti_email@mti.gov.sg
+      - other: More description can be given here
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
+      - email: mti_hr@mti.gov.sg
+      - other: "Explore career opportunities with MTI: https://www.mti.gov.sg/Careers"
     title: Careers
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Fax: (+65) 6334-8135 / (+65) 6334-7113 / (+65) 6334-5848"
+    title: Trade Division
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Fax: (+65) 6334-2967"
+    title: Energy Division
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Fax: (+65) 6334-2367"
+    title: Resource Division
+  - content:
+      - phone: ""
+      - email: ""
+      - other: "Fax: (+65) 6334-0306"
+    title: Research and Enterprise
 ---
