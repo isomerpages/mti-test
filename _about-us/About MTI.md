@@ -19,3 +19,7 @@ To promote economic growth and create good jobs, to enable Singaporeans to impro
 *   Collaborate As Partners
 *   Dare To Innovate
 *   Strive For Excellence
+
+![MTI Core Values](/images/About%20Us/About%20MTI/AboutMTI%20_Values.png)
+
+![Logos](/images/About%20Us/About%20MTI/AboutMTI%20_Logos.jpg)
