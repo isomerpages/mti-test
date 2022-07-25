@@ -4,6 +4,7 @@ permalink: /about-us/people-at-mti
 description: ""
 third_nav_title: People at MTI
 ---
+![People at MTI banner](/images/About%20Us/People%20at%20MTI/PeopleAtMTI%20_Banner.jpg)
 
 ## Who We Are
 
