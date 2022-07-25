@@ -35,23 +35,14 @@ Ladies and Gentlemen,
 6. The launch of the Industry Digital Plan (IDP) for the PCM sector last year, which ASPRI played a key role in developing, outlines these efforts and lays out a digital roadmap for companies.
 
 7. I am happy to note that ASPRI has launched the Digital Readiness Index today.
-	<li>Companies can tap on the DRI Framework for greater insights and guidance on how your company can upgrade its digital capabilities.</li>
-<li> I strongly encourage our companies to respond to the call to adopt digitalisation for greater manpower optimisation and productivity gains.</li>
-	</ol>
+				a. Companies can tap on the DRI Framework for greater insights and guidance on how your company can upgrade its digital capabilities.
+				b. I strongly encourage our companies to respond to the call to adopt digitalisation for greater manpower optimisation and productivity gains.
 
 8. We will continue to work with ASPRI and the industry to explore opportunities to upgrade and upskill the sector.
-
-<ol type="a">
-	<li>Companies can tap on the DRI Framework for greater insights and guidance on how your company can upgrade its digital capabilities.</li>
-<li> I strongly encourage our companies to respond to the call to adopt digitalisation for greater manpower optimisation and productivity gains.</li>
-	</ol>
-a. And ASPRI has shown that it is a committed partner with a track record of delivering innovative initiatives.
-
-b. One notable example is the ASPRI-Westlite Papan dormitory.
-
-c. Launched in 2018, this dormitory boasts of the first Live, Learn, Play integrated accommodation and features a 40,000 sq ft training centre.
-
-d. In less than four years, ASPRI has trained a total of 180,000 workers, clocking over 1 million training hours. It is a highly commendable achievement.
+				a. And ASPRI has shown that it is a committed partner with a track record of delivering innovative initiatives.
+				b. One notable example is the ASPRI-Westlite Papan dormitory.
+				c. Launched in 2018, this dormitory boasts of the first Live, Learn, Play integrated accommodation and features a 40,000 sq ft training centre.
+				d. In less than four years, ASPRI has trained a total of 180,000 workers, clocking over 1 million training hours. It is a highly commendable achievement.
 
 **To play a critical role in the nation’s sustainability efforts, PCM companies will need to re-assess their service/product offerings**
 
