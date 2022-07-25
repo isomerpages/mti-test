@@ -50,7 +50,17 @@ As a start, businesses in Singapore can participate in the following digitalisat
 *   [Artificial Intelligence](http://www.imda.gov.sg/AI)
 *   [APEC Cross Border Privacy Rules (CBPR) System](https://www.imda.gov.sg/programme-listing/cross-border-privacy-rules-certification)
 *   [Data Innovation](https://www.imda.gov.sg/programme-listing/data-collaborative-programme)[](https://www.imda.gov.sg/programme-listing/data-protection-trustmark-certification)
-*   [Data Protection Trustmark Certification](https://www.imda.gov.sg/programme-listing/data-protection-trustmark-certification)[](https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework)
-*   [Nationwide E-Invoicing Network](https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework)[](https://www.imda.gov.sg/SMEsGoDigital)
-*   [SMEs Go Digital  
-    ](https://www.imda.gov.sg/SMEsGoDigital)
+*   [Data Protection Trustmark Certification](https://www.imda.gov.sg/programme-listing/data-protection-trustmark-certification)
+*   [Nationwide E-Invoicing Network](https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework)
+*   [SMEs Go Digital](https://www.imda.gov.sg/SMEsGoDigital)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AeSEpUk7gBY" title="Digital Economy Agreement (DEA) Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Agreements / Collaborations
+
+> Insert cards to different items, if possible
+
+### Modules
+Here are select modules, which can be found in some or all of our DEAs.
+
+> Insert Accordion
