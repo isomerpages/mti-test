@@ -46,9 +46,6 @@ sections:
       button: Learn more
       url: https://
       subtitle: Enterprise
-  - resources:
-      title: Resources
-      button: View More
   - infopic:
       title: Safeguards for Electricity Consumers
       subtitle: Consumer
@@ -56,4 +53,7 @@ sections:
       button: Click here to find out more
       url: https://www.ema.gov.sg/oem-retailer-exit-consumer-safeguards.aspx
       alt: Safeguards for Consumers
+  - resources:
+      title: Resources
+      button: View More
 ---
