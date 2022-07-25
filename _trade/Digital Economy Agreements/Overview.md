@@ -13,7 +13,6 @@ A Digital Economy Agreement (DEA) is a treaty that establishes digital trade rul
 The DEAs aim to build on Singapore’s extensive network of free trade agreements and other digital cooperation initiatives. They also complement Singapore’s leadership role at the World Trade Organisation (WTO) as the co-convener (together with Australia and Japan) of the Joint Statement Initiative on E-Commerce (JSI).
 
 Singapore has concluded negotiations on four DEAs:
-
 1. Digital Economy Partnership Agreement (DEPA) – with Chile and New Zealand;
 2. Singapore-Australia Digital Economy Agreement (SADEA) (which has entered in force on 8 December 2020)
 3. United Kingdom-Singapore Digital Economy Agreement (UKSDEA) (which has entered in force on 14 June 2022); and 
