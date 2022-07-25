@@ -3,6 +3,8 @@ title: MTI Family
 permalink: /about-us/mti-family
 description: MTI family
 ---
+![MTI Family Banner](/images/About%20Us/MTI%20Family/MTIFamily%20_Banner.jpg)
+
 ## MTI Family
 
 There are altogether nine statutory boards and one government department under the Ministry’s purview.  
