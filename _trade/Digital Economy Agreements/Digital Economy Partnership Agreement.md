@@ -4,7 +4,7 @@ permalink: /trade/Digital-Economy-Agreements/depa
 description: ""
 third_nav_title: Digital Economy Agreements
 ---
-![DEPA Banner](/images/Trade/Digital%20Economy%20Agreements/DEA%20_Banner.png)
+![DEPA Banner](/images/Trade/Digital%20Economy%20Agreements/DEA%20_DEPABanner.png)
 
 The Digital Economy Partnership Agreement (DEPA) between Singapore, Chile and New Zealand is the first DEA concluded by Singapore. The DEPA is a first of its kind agreement that establishes new approaches and collaborations in digital trade issues, promotes interoperability between different regimes and addresses the new issues brought about by digitalisation.
 
