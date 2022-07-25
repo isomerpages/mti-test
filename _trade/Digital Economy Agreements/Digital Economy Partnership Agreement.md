@@ -19,7 +19,7 @@ The DEPA includes the following key features:
 
 <hr>
 
-<div style="background-color:lightgray;"><strong>Press Releases</strong></div>
+<h4 style="background-color:lightgray;">Press Releases</h4>
 
 <small>[5 October 2021 - Minister Gan Kim Yong Participates in Meeting on the Digital Economy Partnership Agreement](/files/Trade/DEA/DEPA/Minister%20Gan%20Kim%20Yong%20participates%20in%20Mtg%20on%20the%20Digital%20Economy%20Partnership%20Agreement.pdf)</small>
 
