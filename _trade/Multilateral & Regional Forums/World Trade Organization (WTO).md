@@ -4,7 +4,6 @@ permalink: /trade/Multilateral-and-Regional-Forums/WTO
 description: ""
 third_nav_title: Multilateral & Regional Forums
 ---
-
 ![Banner](/images/Trade/Multilateral%20&%20Regional%20Forums/Multilateral%20_Banner.jpg)
 
 ## World Trade Organization (WTO)
@@ -23,7 +22,7 @@ In response to the COVID-19 pandemic, Singapore has also worked with like-minded
   
 The WTO’s multilateral framework of rules and avenues for recourse are key reasons why Singapore regards the WTO as crucial. Against a backdrop of rising trade tensions and a spike in protectionist measures, a fully functioning two-stage dispute settlement system is paramount to ensuring Singapore’s and all WTO Members’ trade interests. Singapore has expressed serious concerns over the impasse on appointments to the Appellate Body (AB). We remain committed to working with other WTO Members to find a permanent solution to the impasse.  
   
-As an interim solution, Singapore partnered with several WTO Members to establish the Multi-Party Interim Appeal Arbitration Arrangement (MPIA) in April 2020. Until the AB is re-constituted, the MPIA will ensure that participating WTO Members will continue to benefit from an appeals stage in WTO dispute settlements. The MPIA currently consists of 23 WTO Members<a href="#footnote-1">[1]</a> including Singapore. It was operationalised on 31 July 2020 with the finalisation of its pool of 10 arbitrators.<a href="#footnote-2">[2]</a>
+As an interim solution, Singapore partnered with several WTO Members to establish the Multi-Party Interim Appeal Arbitration Arrangement (MPIA) in April 2020. Until the AB is re-constituted, the MPIA will ensure that participating WTO Members will continue to benefit from an appeals stage in WTO dispute settlements. The MPIA currently consists of 23 WTO Members<a href="#footnote-1">[1]</a> including Singapore. It was operationalised on 31 July 2020 with the finalisation of its pool of 10 arbitrators<a href="#footnote-2">[2]</a>.
 
 More information can be found on the [official WTO website](https://www.wto.org/).
 
