@@ -4,8 +4,6 @@ permalink: /newsroom/COVID19-Updates-For-Businesses/Latest-Updates
 description: ""
 third_nav_title: COVID19 Updates For Businesses
 ---
-## Latest Updates
-
 <table style="width:100%;">
  <tr>
 	 <td style="width:20%;">
