@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - About.md
+      - PEP Suggestion/PEP FAQs.md
       - PEP Suggestion/.keep
