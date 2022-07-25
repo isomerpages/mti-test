@@ -8,6 +8,8 @@ description: ""
 ---
 ![Banner](/images/Resources/Speeches/Speeches%20_Banner.jpg)
 
+## Speech by Minister Josephine Teo at the 2022 CCI-ILSTC International Cooperation Forum
+
 1. Distinguished Guests, Ladies, and Gentlemen, good morning. I am delighted to have the opportunity to speak at this year’s CCI-ILSTC International Cooperation Forum.
 
 2. Global turbulences in recent years have exposed the complexities and vulnerabilities of global supply chains. This has accelerated long-term supply chain shifts, with businesses now pursuing a “just in case” over a “just in time” operations model. As a multi-modal and multi-faceted economic link, the CCI-New International Land-Sea Trade Corridor, or CCI-ILSTC, can strengthen supply chain resilience by connecting regions, providing network reliability, and promoting trade digitalisation as well as transparency.
