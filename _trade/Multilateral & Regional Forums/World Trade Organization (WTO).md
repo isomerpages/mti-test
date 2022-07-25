@@ -24,9 +24,7 @@ The WTO’s multilateral framework of rules and avenues for recourse are key rea
   
 As an interim solution, Singapore partnered with several WTO Members to establish the Multi-Party Interim Appeal Arbitration Arrangement (MPIA) in April 2020. Until the AB is re-constituted, the MPIA will ensure that participating WTO Members will continue to benefit from an appeals stage in WTO dispute settlements. The MPIA currently consists of 23 WTO Members<a href="#footnote-1">[1]</a> including Singapore. It was operationalised on 31 July 2020 with the finalisation of its pool of 10 arbitrators.<a href="#footnote-2">[2]</a>
 
-
 More information can be found on the [official WTO website](https://www.wto.org/).
-
 
 <hr>
 <span id="footnote-1" style="font-size:80%">[1] Australia, Benin, Brazil, Canada, Chile, Colombia, Costa Rica, Ecuador, EU, Guatemala, Hong Kong, Iceland, Mexico, Montenegro, New Zealand, Nicaragua, Norway, Pakistan, Singapore, Switzerland, Ukraine, and Uruguay.<br>
