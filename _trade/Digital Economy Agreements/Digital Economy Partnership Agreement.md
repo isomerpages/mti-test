@@ -13,14 +13,13 @@ The DEPA includes the following key features:
 ![DEPA Infographics](/images/Trade/Digital%20Economy%20Agreements/DEA%20_DEPAInfographic.png)
 
 <hr>
-
-#### Reference Material
+<div style="background-color:lightgray;"><strong>Reference Material</strong></div>
 
 <small>[Digital Economy Partnership Agreement](/files/Trade/DEA/DEPA/Digital%20Economy%20Partnership%20Agreement.pdf)</small>
 
 <hr>
 
-#### Press Releases
+<div style="background-color:lightgray;"><strong>Press Releases</strong></div>
 
 <small>[5 October 2021 - Minister Gan Kim Yong Participates in Meeting on the Digital Economy Partnership Agreement](/files/Trade/DEA/DEPA/Minister%20Gan%20Kim%20Yong%20participates%20in%20Mtg%20on%20the%20Digital%20Economy%20Partnership%20Agreement.pdf)</small>
 
