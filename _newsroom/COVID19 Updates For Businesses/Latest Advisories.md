@@ -54,3 +54,14 @@ third_nav_title: COVID19 Updates For Businesses
 *   [Sea Transport and Maritime Industry](https://www.mpa.gov.sg/web/portal/home/maritime-singapore/what-maritime-singapore-offers/covid-19_for_maritime_community)
 *   [Tours](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-tours.html#Tours)
 *   [Tourism Industry](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-on-covid-19.html)
+
+**Other Useful Links**
+*   For the **latest updates on the COVID-19 situation** in Singapore, visit [MOH’s website](https://www.moh.gov.sg/covid-19).   
+*   For the latest advisories and actions to be taken by **employers of foreign employees** and **mandatory declarations**, visit [MOM’s website](https://www.mom.gov.sg/covid-19). For information on **SGWorkPass** and **AccessCode**, please visit [MOM's SGWorkpass](https://www.mom.gov.sg/eservices/sgworkpass) to learn more.
+*   For other **business-related COVID-19 queries**, please visit [Enterprise Singapore’s website](https://www.enterprisesg.gov.sg/covid-19).
+*   [ACRA's Support Measures and Guidance during COVID-19](https://www.acra.gov.sg/announcements/acra%27s-support-measures-and-guidance-for-businesses-during-covid-19)
+*   For **SafeEntry** matters, please visit the SafeEntry [website](https://www.ndi-api.gov.sg/safeentry).
+*   For **printable posters/advisories**, visit Gov.sg's COVID-19 [resources page](https://www.gov.sg/article/covid-19-resources).
+*   For interim guidelines on **cleaning and disinfection**, and **sanitation** and **hygiene** advisories for various sectors, visit [NEA’s website](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines).
+*   If you would like to find out more about the **SG Clean quality mark** and how to be certified, visit the [SG Clean website](https://www.sgclean.gov.sg/) to find out more.
+*   If you would like to support the different **community-led COVID-19 efforts** in Singapore, visit the [SG United website](https://www.sgunited.gov.sg/) to find out more.
