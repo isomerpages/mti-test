@@ -18,12 +18,12 @@ contacts:
   - content:
       - phone: 1 800 221 3005
       - email: mti_email@mti.gov.sg
-      - other: More description can be given here
+      - other: "Fax: (+65) 63327260"
     title: General Enquiries & Feedback
   - content:
       - phone: ""
       - email: mti_hr@mti.gov.sg
-      - other: "Explore career opportunities with MTI: https://www.mti.gov.sg/Careers"
+      - other: Explore <a href="/careers">career opportunities</a> with MTI
     title: Careers
   - content:
       - phone: ""
