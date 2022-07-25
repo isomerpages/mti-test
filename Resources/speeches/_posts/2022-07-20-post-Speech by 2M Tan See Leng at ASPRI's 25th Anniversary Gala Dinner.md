@@ -23,11 +23,11 @@ Ladies and Gentlemen,
 
 **Digitalisation for increased workforce productivity and manpower optimisation**
 
-3.It is a fitting time to celebrate your 25th anniversary together after two difficult years.
-
-a. The pandemic has been particularly challenging for many companies in the PCM sector.
-
-b. Many companies remained nimble and adapted quickly to multiple uncertainties, including border restrictions and supply chain disruptions. 
+3. It is a fitting time to celebrate your 25th anniversary together after two difficult years.
+<ol type="a">
+	<li>The pandemic has been particularly challenging for many companies in the PCM sector.</li>
+<li>Many companies remained nimble and adapted quickly to multiple uncertainties, including border restrictions and supply chain disruptions.</li>
+	</ol>
 
 4. Against this backdrop, ASPRI stepped up to facilitate open and constructive dialogues with key industry stakeholders including PCM companies, plant owners, Singapore Chemicals Industry Council (SCIC), and government bodies.
 
