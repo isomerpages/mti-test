@@ -1,5 +1,4 @@
 collections:
   newsroom:
     output: true
-    order:
-      - COVID 19 Updates For Businesses.md
+    order: []
