@@ -2,4 +2,5 @@ collections:
   partnerships:
     output: true
     order:
+      - France Singapore Digital and Green Partnership.md
       - US Singapore Partnership for Growth and Innovation.md
