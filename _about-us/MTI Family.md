@@ -13,6 +13,6 @@ Our government department is: Singapore Department of Statistics (DOS). As the N
 
 |  | |
 | -------- | -------- |
-| <p>![DOS Logo](/images/About%20Us/MTI%20Family/MTIFamily%20_DOSLogo.jpg) | [Department of Statistics (DOS)](https://www.singstat.gov.sg/)</br>Delivering insightful statistics and statistical services.</p> |
-| ![A-Star Logo](/images/About%20Us/MTI%20Family/MTIFamily%20_AStarLogo.jpg) | [Agency for Science, Technology & Research](http://www.a-star.edu.sg/)</br> Advancing science and developing innovative technology to further economic growth and improve lives. |
-| ![CCCS Logo](/images/About%20Us/MTI%20Family/MTIFamily%20_CCCSLogo.jpg) | [Competition & Consumer Commission](http://www.cccs.gov.sg/)</br>Making markets work well to create opportunities and choices for businesses and consumers. |
+| ![DOS Logo](/images/About%20Us/MTI%20Family/MTIFamily%20_DOSLogo.jpg) | [Department of Statistics (DOS)](https://www.singstat.gov.sg/): Delivering insightful statistics and statistical services.</p> |
+| ![A-Star Logo](/images/About%20Us/MTI%20Family/MTIFamily%20_AStarLogo.jpg) | [Agency for Science, Technology & Research](http://www.a-star.edu.sg/): Advancing science and developing innovative technology to further economic growth and improve lives. |
+| ![CCCS Logo](/images/About%20Us/MTI%20Family/MTIFamily%20_CCCSLogo.jpg) | [Competition & Consumer Commission](http://www.cccs.gov.sg/): Making markets work well to create opportunities and choices for businesses and consumers. |
