@@ -3,6 +3,8 @@ title: About MTI
 permalink: /about-us/about-mti
 description: ""
 ---
+![About MTI banner](/images/About%20Us/About%20MTI/AboutMTI%20_Banner.jpg)
+
 ## Our Vision 
 
 
