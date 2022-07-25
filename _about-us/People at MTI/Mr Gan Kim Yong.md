@@ -6,8 +6,6 @@ third_nav_title: People at MTI
 ---
 ![Gan Kim Yong profile](/images/About%20Us/People%20at%20MTI/PeopleAtMTI%20_GanKimYong.jpg)
 
-<img src="/images/About%20Us/People%20at%20MTI/PeopleAtMTI%20_GanKimYong.jpg" alt="Gan Kim Yong profile picture" width="20" height="10">
-
 Mr Gan Kim Yong was appointed Minister for Trade and Industry on 15 May 2021. One of his key priorities at the Ministry of Trade and Industry (MTI) is to identify new opportunities for growth in support of Singapore’s continued economic development. Mr Gan continues to co-chair the Multi-Ministry Taskforce to direct and coordinate Singapore’s response to the COVID-19 pandemic.
 
 Prior to MTI, Mr Gan was Minister for Health from May 2011 to May 2021. He oversaw efforts to drive Healthcare 2020, a masterplan outlining the Government’s strategy to ensure accessibility, quality and affordability of healthcare in Singapore. Under his leadership, the Ministry of Health invested significantly in building new healthcare infrastructure like acute and community hospitals and expanded the polyclinic and General Practitioner networks. To better prepare Singaporeans for their long-term care needs, enhancements to long-term care financing measures including the Pioneer Generation Package, the Merdeka Generation Package and CareShield Life were launched in 2014, 2019 and 2020 respectively. MediShield Life, a universal medical insurance that covers all Singaporeans for life regardless of health status, was also introduced in 2015. 
