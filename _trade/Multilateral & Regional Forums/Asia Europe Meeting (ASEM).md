@@ -4,7 +4,6 @@ permalink: /trade/Multilateral-and-Regional-Forums/ASEM
 description: ""
 third_nav_title: Multilateral & Regional Forums
 ---
-
 ![Banner](/images/Trade/Multilateral%20&%20Regional%20Forums/Multilateral%20_Banner.jpg)
 
 ## Asia-Europe Meeting (ASEM)
@@ -16,4 +15,4 @@ The Asia-Europe Meeting (ASEM) is a gathering of heads-of-government from member
 * Open regionalisation
 * Non-discriminatory liberalisation.
 
-![ASEM](/images/Trade/Multilateral%20&%20Regional%20Forums/Multilateral%20_ASEMLogo.gif)
+<img src="/images/Trade/Multilateral%20&%20Regional%20Forums/Multilateral%20_ASEMLogo.gif" alt="Logo" align="left" style="width:109px; height:87px;">
