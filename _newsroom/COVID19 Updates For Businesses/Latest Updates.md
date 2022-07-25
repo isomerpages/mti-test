@@ -8,7 +8,7 @@ third_nav_title: COVID19 Updates For Businesses
 
 <table style="width:100%;">
  <tr>
-	 <td style="width:15%;">
+	 <td style="width:20%;">
 		 <p>10 Jun 2022</p>
 	 </td>
 	 <td>
@@ -19,7 +19,7 @@ third_nav_title: COVID19 Updates For Businesses
 	</tr>
 	
 <tr>
-	<td style="width:20%;">
+	<td>
 		<p>22 Apr 2022</p>
 	</td>
 	<td>
