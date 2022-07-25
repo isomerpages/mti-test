@@ -21,7 +21,6 @@ The Government will help our industries, enterprises and workers position themse
 
 <hr>
 [Speech](https://www.mti.gov.sg/Newsroom/Speeches/2022/03/Speech-by-Minister-for-Trade-and-Industry-Gan-Kim-Yong-Speech-at-the-MTI-COS-2022) by Minister Gan Kim Yong - Seizing Opportunities, Energising Enterprises
-
 <hr>
 
 > [Speech](https://www.mti.gov.sg/Newsroom/Speeches/2022/03/Speech-by-Minister-for-Trade-and-Industry-Gan-Kim-Yong-Speech-at-the-MTI-COS-2022) by Minister Gan Kim Yong - Seizing Opportunities, Energising Enterprises
