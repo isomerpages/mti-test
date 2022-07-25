@@ -5,16 +5,19 @@ description: ""
 ---
 <table style="width:100%;">
     <tr>
-    <td><img src="/images/COS%202022/Factsheets/FactSheets%20_icon1.png" alt="icon 1" style="width:200px;height=50px"></td>
-			<td><a href="">Electricity contracting support for large consumers</a></td>
+    <td style="width:20%;"><img src="/images/COS%202022/Factsheets/FactSheets%20_icon1.png" alt="icon 1" style="width:100px;height=20px"></td>
+			<td style="padding-top:40px"><a href="/files/COS%202022/Factsheets/12%20MTI%20COS%202022%20Media%20Factsheet%20%20Electricity%20Contracting%20Support%20for%20Large%20Consumers.pdf">Electricity contracting support for large consumers</a></td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td style="width:20%;"><img src="/images/COS%202022/Factsheets/FactSheets%20_icon2.png" alt="icon 2" style="width:100px;height=20px"></td>
+			<td style="padding-top:40px"><a href="/files/COS%202022/Factsheets/6%20MTI%20COS%202022%20Media%20Factsheet%20%20Enterprise%20Financing%20Scheme%20Mergers%20and%20Acquisition%20Loan.pdf">Enterprise Financing Scheme (EFS): Mergers & Acquisition Loan</a></td>
+  </tr>
+	</tr>
+  <tr>
+    <td style="width:20%;"><img src="/images/COS%202022/Factsheets/FactSheets%20_icon2.png" alt="icon 2" style="width:100px;height=20px"></td>
+			<td style="padding-top:40px"><a href="/files/COS%202022/Factsheets/7%20MTI%20COS%202022%20Media%20Factsheet%20%20Enterprise%20Financing%20Scheme%20Trade%20Loan.pdf">Enterprise Financing Scheme (EFS): Trade Loan</a></td>
   </tr>
 </table>
-
-![s](/images/COS%202022/Factsheets/FactSheets%20_icon1.png)
 
 
 > Alternative Options:
