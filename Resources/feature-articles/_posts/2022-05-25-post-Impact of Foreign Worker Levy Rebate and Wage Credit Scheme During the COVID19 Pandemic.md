@@ -6,5 +6,5 @@ date: 2022-05-25
 layout: post
 description: ""
 ---
+![Banner](/images/Resources/Feature%20Articles/FeatureArticles%20_Banner.jpg)
 
-test
