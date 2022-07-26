@@ -17,7 +17,7 @@ Your work will help to boost economic growth and create jobs in Singapore, and a
 
 
 <div style="border-bottom: hidden; overflow: hidden">
-		<img src="/images/Careers/Why%20MTI/Careers%20_WhyMTISidePic.png" alt="Join Our Team" style="float:right; width:50%; height:auto; margin-left:15px;">
-	<strong style="font-size:200%;">Join Our Team</strong><br><br>
-	<span>To apply, you can go to Careers@Gov to find out our current vacancies and to submit your application. If you are looking for an internship with us, you can also apply directly at <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html">Careers@Gov</a></span>
+		<img src="/images/Careers/Why%20MTI/Careers%20_WhyMTISidePic.png" alt="Join Our Team" style="float:right; width:50%; height:auto; margin-left:15px; margin-top: 20px">
+	<strong style="font-size:200%;">Join Our Team</strong>
+	<p>To apply, you can go to Careers@Gov to find out our current vacancies and to submit your application. If you are looking for an internship with us, you can also apply directly at <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html">Careers@Gov</a></p>
 </div>
