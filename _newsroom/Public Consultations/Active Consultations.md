@@ -70,6 +70,5 @@ _Roles of the Fair Tenancy Industry Committee_
 <span id="footnote-4" style="font-size:80%">[4] Please note that feedback on the Code itself can be directed to the Fair Tenancy Industry Committee via their website at [www.ftic.org.sg](https://www.ftic.org.sg/).
 </p>
 
-[Annex A](https://www.mti.gov.sg/-/media/MTI/Legislation/Public-Consultations/2022/Public-Consultation-on-Legislation-to-Mandate-Compliance-with-the-Code-of-Conduct/Annex-A---Frequently-Asked-Questions.pdf) – Frequently Asked Questions  
-[Annex B](https://www.mti.gov.sg/-/media/MTI/Legislation/Public-Consultations/2022/Public-Consultation-on-Legislation-to-Mandate-Compliance-with-the-Code-of-Conduct/Annex-B---Feedback-on-Consultation-Paper.docx) – Template for Response to Consultation Paper
-	
+[Annex A](/files/Newsroom/Public%20Consultations/2022/Leasing%20of%20Retails%20Premises/Annex%20A%20-%20Frequently%20Asked%20Questions.pdf) – Frequently Asked Questions  
+[Annex B](https://go.gov.sg/annex-b-feedback-on-consultation-paper-docx) – Template for Response to Consultation Paper
