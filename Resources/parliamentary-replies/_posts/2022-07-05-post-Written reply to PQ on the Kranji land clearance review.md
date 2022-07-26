@@ -5,6 +5,8 @@ date: 2022-07-05
 layout: post
 description: ""
 ---
+![Banner](/images/Resources/Parliamentary%20Replies/ParliamentaryReplies%20_Banner.jpg)
+
 ## Written reply to PQ on the Kranji land clearance review
 
 **Question**
