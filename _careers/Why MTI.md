@@ -16,10 +16,7 @@ Your work will help to boost economic growth and create jobs in Singapore, and a
 
 ## Join Our Team
 
-To apply, you can go to Careers@Gov to find out our current vacancies and to submit your application. If you are looking for an internship with us, you can also apply directly at [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html "Careers@Gov").
-
-
-
 <div style="border-bottom: hidden; overflow: hidden">
-	<h4>Join Our Team</h4><img src="/images/Trade/Digital%20Economy%20Agreements/DEA%20_WhatDEA.png" alt="What are DEAs" style="float:left;width:150px;height:150px;"><br>What are Digital Economy Agreements (DEAs)?</h4>
+	<img src="/images/Careers/Why%20MTI/Careers%20_WhyMTISidePic.png" alt="Join Our Team" style="float:right; width:250px; height:150px; margin-left:15px">
+	<span>To apply, you can go to Careers@Gov to find out our current vacancies and to submit your application. If you are looking for an internship with us, you can also apply directly at <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html">Careers@Gov</a></span>
 </div>
