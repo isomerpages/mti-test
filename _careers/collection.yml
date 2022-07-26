@@ -2,10 +2,7 @@ collections:
   careers:
     output: true
     order:
-      - Join The Economist Service/.keep
-      - Join The Economist Service/Overview.md
-      - Join The Economist Service/Who We Are.md
-      - Join The Economist Service/What We Do.md
+      - Why MTI.md
       - Join Our MTI Professionals/.keep
       - Join Our MTI Professionals/Overview.md
       - Join Our MTI Professionals/Why Join MTI.md
@@ -13,4 +10,7 @@ collections:
       - Join Our MTI Professionals/Grow as an MTI Professional.md
       - Join Our MTI Professionals/Career Paths.md
       - Join Our MTI Professionals/Join MTI.md
-      - Why MTI.md
+      - Join The Economist Service/.keep
+      - Join The Economist Service/Overview.md
+      - Join The Economist Service/Who We Are.md
+      - Join The Economist Service/What We Do.md
