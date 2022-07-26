@@ -12,11 +12,12 @@ Join us to create exciting opportunities and good jobs for all. Together with ou
 Your work will help to boost economic growth and create jobs in Singapore, and achieve higher standards of living for everyone. Expect to be challenged and stretched, have your perspectives broadened, while working with passionate and driven people to make a difference.
 
 > How to insert cards in here
+
 > Also for the testimonial
 
-## Join Our Team
 
 <div style="border-bottom: hidden; overflow: hidden">
-	<img src="/images/Careers/Why%20MTI/Careers%20_WhyMTISidePic.png" alt="Join Our Team" style="float:right; width:250px; height:150px; margin-left:15px">
+		<img src="/images/Careers/Why%20MTI/Careers%20_WhyMTISidePic.png" alt="Join Our Team" style="float:right; width:250px; height:150px; margin-left:15px;">
+	<strong style="font-size:200%;">Join Our Team</strong><br><br>
 	<span>To apply, you can go to Careers@Gov to find out our current vacancies and to submit your application. If you are looking for an internship with us, you can also apply directly at <a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html">Careers@Gov</a></span>
 </div>
