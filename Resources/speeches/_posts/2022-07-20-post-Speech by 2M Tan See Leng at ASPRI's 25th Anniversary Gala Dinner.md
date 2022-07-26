@@ -47,27 +47,19 @@ d. In less than four years, ASPRI has trained a total of 180,000 workers, clocki
 **To play a critical role in the nation’s sustainability efforts, PCM companies will need to re-assess their service/product offerings**
 
 9. Looking ahead, PCM companies will need to embrace not just digitalisation but also sustainability.
-
 a. This is an existential issue for both the nation and the sector.
-
 b. The PCM sector has been an essential partner to our Energy and Chemicals (E&C) industry over the past 50 years.
 
 10. But the increasing focus on climate change and sustainability has led to greater impetus for the E&C industry to use cleaner energy sources.
-
 a. Singapore is also committed to the transition towards a sustainable future. 
-
 b. At Budget 2022, the Government announced that we would raise our climate ambition to achieve net zero emissions by or around 2050. 
-
 c. Alongside our national goals, the E&C sector is making plans to reduce emissions and transition towards a low-carbon future.  
-
 d. As companies adapt to decarbonise their operations and provide products relevant to the low-carbon transition, the PCM sector must also adapt, by re-assessing their service/product offerings as an essential partner to the E&C industry.
 
 **Conclusion**
 
 11. Let me conclude by thanking ASPRI for your contributions to the PCM sector over the past 25 years.
-
 a. I am heartened to see PCM companies looking towards new opportunities for the sector in both digital adoption and energy transition and sustainability solutions.
-
 b. I also encourage you to capitalise on your strong track record and experience, and to collaborate on capturing overseas projects together.
 
 12. The future is bright, but we must seize these opportunities together – companies, unions and the Government, all working hand in hand, as Team Singapore.
