@@ -2,5 +2,6 @@ collections:
   careers:
     output: true
     order:
+      - Join Our MTI Professionals/Overview.md
       - Join Our MTI Professionals/.keep
       - Why MTI.md
