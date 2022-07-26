@@ -71,4 +71,4 @@ _Roles of the Fair Tenancy Industry Committee_
 </p>
 
 [Annex A](/files/Newsroom/Public%20Consultations/2022/Leasing%20of%20Retails%20Premises/Annex%20A%20-%20Frequently%20Asked%20Questions.pdf) – Frequently Asked Questions  
-[Annex B](https://go.gov.sg/annex-b-feedback-on-consultation-paper-docx) – Template for Response to Consultation Paper
+[Annex B](https://go.gov.sg/public-consultations-leasing-of-retail-premises-annex-b-feedback) – Template for Response to Consultation Paper
