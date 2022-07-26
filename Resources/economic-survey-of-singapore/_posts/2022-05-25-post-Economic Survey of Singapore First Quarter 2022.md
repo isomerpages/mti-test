@@ -18,6 +18,11 @@ description: ""
 #### Statistical Appendix
 
 * [Statistical Appendix (All)](/files/Resources/Economic%20Survey%20of%20Singapore/2022/05/Statistical%20Appendix/SA_1Q22.pdf)
+* [Table A1.1 - Gross Domestic Product by Industry](https://go.gov.sg/ess-1q2022-table-a1-1-gdp-by-industry)
+* [Table A1.2 - Gross Domestic Product by Industry in Chained (2015) Dollars, Seasonally Adjusted](https://go.gov.sg/ess-1q2022-table-a1-2-gdp-by-industry-in-chained-dollar)
+* [Table A1.3 - Percentage Contribution to Growth in Real GDP](https://go.gov.sg/ess-1q2022-table-a1-3-percentage-contribution-to-growth-in-real-gdp)
+* [Table A1.4 - Gross Domestic Product Deflators by Industry](https://go.gov.sg/ess-1q2022-table-a1-4-gdp-deflators-by-industry)
+
  
 #### Others
 
