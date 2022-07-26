@@ -5,6 +5,8 @@ date: 2022-05-25
 layout: post
 description: ""
 ---
+![Banner](/images/Resources/Economic%20Survey%20of%20Singapore/ESS%20_Banner.jpg)
+
 #### Economic Survey of Singapore First Quarter 2022
 
 * [Press Release](/files/Resources/Economic%20Survey%20of%20Singapore/2022/05/ESS/PR_1Q22.pdf)
