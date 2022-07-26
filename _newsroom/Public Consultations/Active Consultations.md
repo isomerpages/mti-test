@@ -64,10 +64,10 @@ _Roles of the Fair Tenancy Industry Committee_
   
 <hr>
 <p>
-<span id="footnote-1" style="font-size:80%">[1] Corporate landlords that have pledged adherence to the Code include APM Property Management, CapitaLand, City Developments, Frasers Property, Keppel Land, Mercatus Co-operative, SPH REIT, and UOL Group.  
-<span id="footnote-2" style="font-size:80%">[2] Specifically, these are premises permitted for Food & Beverage, Shop, Medical/Dental/Aesthetic Clinic, Pet Shop and Pet Boarding, Commercial School, and Sports & Recreation/Place of Entertainment uses.  
-<span id="footnote-3" style="font-size:80%">[3] MTI intends to appoint the Singapore Mediation Centre (SMC) as the authorised dispute resolution body.  
-<span id="footnote-4" style="font-size:80%">[4] Please note that feedback on the Code itself can be directed to the Fair Tenancy Industry Committee via their website at [www.ftic.org.sg](https://www.ftic.org.sg/).
+<span id="footnote-1" style="font-size:80%">[1] Corporate landlords that have pledged adherence to the Code include APM Property Management, CapitaLand, City Developments, Frasers Property, Keppel Land, Mercatus Co-operative, SPH REIT, and UOL Group.</span><br>  
+<span id="footnote-2" style="font-size:80%">[2] Specifically, these are premises permitted for Food & Beverage, Shop, Medical/Dental/Aesthetic Clinic, Pet Shop and Pet Boarding, Commercial School, and Sports & Recreation/Place of Entertainment uses.</span><br>  
+<span id="footnote-3" style="font-size:80%">[3] MTI intends to appoint the Singapore Mediation Centre (SMC) as the authorised dispute resolution body.</span><br>  
+<span id="footnote-4" style="font-size:80%">[4] Please note that feedback on the Code itself can be directed to the Fair Tenancy Industry Committee via their website at [www.ftic.org.sg](https://www.ftic.org.sg/).</span>
 </p>
 
 [Annex A](/files/Newsroom/Public%20Consultations/2022/Leasing%20of%20Retails%20Premises/Annex%20A%20-%20Frequently%20Asked%20Questions.pdf) – Frequently Asked Questions  
