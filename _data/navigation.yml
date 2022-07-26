@@ -13,4 +13,4 @@ links:
   - title: Resources
     resource_room: true
   - title: Careers
-    url: /careers
+    collection: careers
