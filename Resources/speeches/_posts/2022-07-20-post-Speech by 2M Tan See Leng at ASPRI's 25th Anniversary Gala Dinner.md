@@ -24,25 +24,25 @@ Ladies and Gentlemen,
 **Digitalisation for increased workforce productivity and manpower optimisation**
 
 3. It is a fitting time to celebrate your 25th anniversary together after two difficult years.
-				a. The pandemic has been particularly challenging for many companies in the PCM sector.
-				b. Many companies remained nimble and adapted quickly to multiple uncertainties, including border restrictions and supply chain disruptions.
+a. The pandemic has been particularly challenging for many companies in the PCM sector.
+b. Many companies remained nimble and adapted quickly to multiple uncertainties, including border restrictions and supply chain disruptions.
 
 4. Against this backdrop, ASPRI stepped up to facilitate open and constructive dialogues with key industry stakeholders including PCM companies, plant owners, Singapore Chemicals Industry Council (SCIC), and government bodies.
-				a. You kept members updated on developments, continued plant maintenance, and tended to the welfare of workers in your sector.
+a. You kept members updated on developments, continued plant maintenance, and tended to the welfare of workers in your sector.
 
 5. The experience of navigating COVID-19 and border closures has accelerated digital transformation efforts within the PCM sector.
 
 6. The launch of the Industry Digital Plan (IDP) for the PCM sector last year, which ASPRI played a key role in developing, outlines these efforts and lays out a digital roadmap for companies.
 
 7. I am happy to note that ASPRI has launched the Digital Readiness Index today.
-				a. Companies can tap on the DRI Framework for greater insights and guidance on how your company can upgrade its digital capabilities.
-				b. I strongly encourage our companies to respond to the call to adopt digitalisation for greater manpower optimisation and productivity gains.
+a. Companies can tap on the DRI Framework for greater insights and guidance on how your company can upgrade its digital capabilities.
+b. I strongly encourage our companies to respond to the call to adopt digitalisation for greater manpower optimisation and productivity gains.
 
 8. We will continue to work with ASPRI and the industry to explore opportunities to upgrade and upskill the sector.
-				a. And ASPRI has shown that it is a committed partner with a track record of delivering innovative initiatives.
-				b. One notable example is the ASPRI-Westlite Papan dormitory.
-				c. Launched in 2018, this dormitory boasts of the first Live, Learn, Play integrated accommodation and features a 40,000 sq ft training centre.
-				d. In less than four years, ASPRI has trained a total of 180,000 workers, clocking over 1 million training hours. It is a highly commendable achievement.
+a. And ASPRI has shown that it is a committed partner with a track record of delivering innovative initiatives.
+b. One notable example is the ASPRI-Westlite Papan dormitory.
+c. Launched in 2018, this dormitory boasts of the first Live, Learn, Play integrated accommodation and features a 40,000 sq ft training centre.
+d. In less than four years, ASPRI has trained a total of 180,000 workers, clocking over 1 million training hours. It is a highly commendable achievement.
 
 **To play a critical role in the nation’s sustainability efforts, PCM companies will need to re-assess their service/product offerings**
 
