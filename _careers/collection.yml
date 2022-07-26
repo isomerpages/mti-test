@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Join Our MTI Professionals/Career Path.md
       - Join Our MTI Professionals/Grow as an MTI Professional.md
       - Join Our MTI Professionals/Meet Our People.md
       - Join Our MTI Professionals/Why Join MTI.md
