@@ -2,9 +2,9 @@ collections:
   newsroom:
     output: true
     order:
-      - Public Consultation/.keep
       - Key Economic Indicators.md
       - COVID19 Updates For Businesses/.keep
       - COVID19 Updates For Businesses/Latest Updates.md
       - COVID19 Updates For Businesses/Latest Advisories.md
       - Legislation/.keep
+      - Public Consultation/.keep
