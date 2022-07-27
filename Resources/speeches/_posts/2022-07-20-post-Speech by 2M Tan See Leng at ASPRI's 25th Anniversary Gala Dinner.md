@@ -17,13 +17,13 @@ Ladies and Gentlemen,
 
 **Introduction**
 
-1. Good evening. It is my pleasure to join you this evening on this joyous occasion of ASPRI’s 25th anniversary.
+1. Good evening. It is my pleasure to join you this evening on this joyous occasion of ASPRI’s 25th anniversary.
 
-2. ASPRI has played an important role in supporting the capability development and transformation of the Process Construction and Maintenance (PCM) sector over the last 25 years.
+1. ASPRI has played an important role in supporting the capability development and transformation of the Process Construction and Maintenance (PCM) sector over the last 25 years.
 
 **Digitalisation for increased workforce productivity and manpower optimisation**
 
-3. It is a fitting time to celebrate your 25th anniversary together after two difficult years.
+1. It is a fitting time to celebrate your 25th anniversary together after two difficult years.
 	a. The pandemic has been particularly challenging for many companies in the PCM sector.
 	b. Many companies remained nimble and adapted quickly to multiple uncertainties, including border restrictions and supply chain disruptions.
 
