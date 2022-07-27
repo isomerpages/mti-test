@@ -64,7 +64,9 @@ As a start, businesses in Singapore can participate in the following digitalisat
 *   [Nationwide E-Invoicing Network](https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework)
 *   [SMEs Go Digital](https://www.imda.gov.sg/SMEsGoDigital)
 
+<div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AeSEpUk7gBY" title="Digital Economy Agreement (DEA) Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Agreements / Collaborations
 
