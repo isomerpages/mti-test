@@ -27,12 +27,12 @@ Ladies and Gentlemen,
 	a. The pandemic has been particularly challenging for many companies in the PCM sector.<br>
 	 b. Many companies remained nimble and adapted quickly to multiple uncertainties, including border restrictions and supply chain disruptions.
 
-1. Against this backdrop, ASPRI stepped up to facilitate open and constructive dialogues with key industry stakeholders including PCM companies, plant owners, Singapore Chemicals Industry Council (SCIC), and government bodies.
+4\. Against this backdrop, ASPRI stepped up to facilitate open and constructive dialogues with key industry stakeholders including PCM companies, plant owners, Singapore Chemicals Industry Council (SCIC), and government bodies.
 	a. You kept members updated on developments, continued plant maintenance, and tended to the welfare of workers in your sector.
 
-5. The experience of navigating COVID-19 and border closures has accelerated digital transformation efforts within the PCM sector.
+5\. The experience of navigating COVID-19 and border closures has accelerated digital transformation efforts within the PCM sector.
 
-6. The launch of the Industry Digital Plan (IDP) for the PCM sector last year, which ASPRI played a key role in developing, outlines these efforts and lays out a digital roadmap for companies.
+6\. The launch of the Industry Digital Plan (IDP) for the PCM sector last year, which ASPRI played a key role in developing, outlines these efforts and lays out a digital roadmap for companies.
 
 7. I am happy to note that ASPRI has launched the Digital Readiness Index today.
 	a. Companies can tap on the DRI Framework for greater insights and guidance on how your company can upgrade its digital capabilities.
