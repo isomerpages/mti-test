@@ -12,11 +12,18 @@ The DEPA includes the following key features:
 
 ![DEPA Infographics](/images/Trade/Digital%20Economy%20Agreements/DEA%20_DEPAInfographic.png)
 
+
+
 <hr>
 <div style="background-color:lightgray;"><strong>Reference Material</strong></div>
 
-* <small>[Digital Economy Partnership Agreement](/files/Trade/DEA/DEPA/Digital%20Economy%20Partnership%20Agreement.pdf)</small>
-
+<ul style="font-size:70%">
+	<li><a href="/files/Trade/DEA/DEPA/Digital%20Economy%20Partnership%20Agreement.pdf">Digital Economy Partnership Agreement</a>
+	</li>
+</ul>
+	
+* <small>[Digital Economy Partnership Agreement](/files/Trade/DEA/DEPA/Digital%20Economy%20Partnership%20Agreement.pdf)   </small>	
+	
 <hr>
 
 <h4 style="background-color:lightgray;">Press Releases</h4>
