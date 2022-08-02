@@ -42,6 +42,16 @@ To promote economic growth and create good jobs, to enable Singaporeans to impro
 <hr>
 
 <h2>Our Core Values</h2>
+<div style="border-bottom: hidden; overflow: hidden">
+	<img src="/images/About%20Us/About%20MTI/AboutMTI%20_Values.png" alt="MTI Core Values" style="float:right; width:350px;height:200px">
+	<ul>
+				<li>Value Our People</li>
+				<li>Serve With Integrity</li>
+				<li>Collaborate As Partners</li>
+				<li>Dare To Innovate</li>
+				<li> Strive For Excellence</li>
+			</ul>
+</div>
 
 
 
