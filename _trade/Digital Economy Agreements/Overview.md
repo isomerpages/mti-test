@@ -28,8 +28,6 @@ We hope to conclude further agreements with other like-minded economies in the f
 
 We are continually seeking to improve our DEAs and ensure that these agreements would provide concrete benefits for businesses. Thus, MTI, MCI and IMDA would like to invite companies to share with us your feedback on any challenges in other markets or restrictions on the digital economy you may face, as well as any ideas you may have on how to better facilitate digital trade at the survey **[here](https://form.gov.sg/#!/6073b54f78026f0011c459a3)**.
 
-![Why DEA](/images/Trade/Digital%20Economy%20Agreements/DEA%20_WhyDEAs.jpg)
-
 <div style="border-bottom: hidden; overflow: hidden">
 <h4><img src="/images/Trade/Digital%20Economy%20Agreements/DEA%20_WhyDEA.png" alt="What are DEAs" style="float:left;width:150px;height:150px"><br>Why are DEAs important for Singapore?</h4>
 </div>
@@ -47,8 +45,6 @@ The DEAs will:
  <li>Encourage cooperation between Singapore’s economic partners in nascent areas such as digital identities, Artificial Intelligence (AI) and data innovation. This gives organisations the scope to trial use-cases and technologies across different countries.</li>
 </ol>
 
-![How DEA](/images/Trade/Digital%20Economy%20Agreements/DEA%20_HowDEAs.jpg)
-
 <div style="border-bottom: hidden; overflow: hidden">
 <h4><img src="/images/Trade/Digital%20Economy%20Agreements/DEA%20_HowDEA.png" alt="What are DEAs" style="float:left;width:150px;height:150px"><br>How can business benefit from the DEAs?</h4>
 </div>
@@ -65,7 +61,7 @@ As a start, businesses in Singapore can participate in the following digitalisat
 *   [SMEs Go Digital](https://www.imda.gov.sg/SMEsGoDigital)
 
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AeSEpUk7gBY" title="Digital Economy Agreement (DEA) Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/AeSEpUk7gBY" title="Digital Economy Agreement (DEA) Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Agreements / Collaborations
