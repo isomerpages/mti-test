@@ -16,12 +16,21 @@ To promote economic growth and create good jobs, to enable Singaporeans to impro
 
 ## Our Core Values
 
-*   Value Our People
-*   Serve With Integrity
-*   Collaborate As Partners
-*   Dare To Innovate
-*   Strive For Excellence
-
-![MTI Core Values](/images/About%20Us/About%20MTI/AboutMTI%20_Values.png)
+<table style="width:100%">
+	<tr>
+		<td style="width:40%">
+			<ul>
+				<li>Value Our People</li>
+				<li>Serve With Integrity</li>
+				<li>Collaborate As Partners</li>
+				<li>Dare To Innovate</li>
+				<li> Strive For Excellence</li>
+			</ul>
+		</td>
+		<td style="padding-top:20px; padding-bottom:20px;"> <! -- For vertical align -->
+			<img src="/images/About%20Us/About%20MTI/AboutMTI%20_Values.png" alt="MTI Core Values" style="float:right; width:300px;height:170px">
+		</td>
+	</tr>
+</table>
 
 ![Logos](/images/About%20Us/About%20MTI/AboutMTI%20_Logos.jpg)
