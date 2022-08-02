@@ -31,7 +31,7 @@ To promote economic growth and create good jobs, to enable Singaporeans to impro
 			</ul>
 		</td>
 		<td style="padding-top:20px; padding-bottom:20px;">
-			<! -- For vertical align -->
+			<!-- For vertical align -->
 			<img src="/images/About%20Us/About%20MTI/AboutMTI%20_Values.png" alt="MTI Core Values" style="float:right; width:300px;height:170px">
 		</td>
 	</tr>
