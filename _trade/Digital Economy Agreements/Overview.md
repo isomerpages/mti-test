@@ -6,7 +6,7 @@ third_nav_title: Digital Economy Agreements
 ---
 ![DEA Banner](/images/Trade/Digital%20Economy%20Agreements/DEA%20_Banner.png)
 
-<div>
+<div style="border-bottom: hidden; overflow: hidden">
 <h4><img src="/images/Trade/Digital%20Economy%20Agreements/DEA%20_WhatDEA.png" alt="What are DEAs" style="float:left;width:150px;height:150px;"><br>What are Digital Economy Agreements (DEAs)?</h4>
 </div>
 
