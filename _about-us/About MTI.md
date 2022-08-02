@@ -14,6 +14,9 @@ Our vision is for Singapore to be a leading global city with a dynamic economy, 
 
 To promote economic growth and create good jobs, to enable Singaporeans to improve their lives. Together with our statutory boards, we will ensure that Singapore’s economy continues to be competitive, is able to attract investments, and nurture a deeper base of global Singapore enterprises.
 
+**Option 1:**
+<hr>
+
 ## Our Core Values
 
 <table style="width:100%">
@@ -33,5 +36,13 @@ To promote economic growth and create good jobs, to enable Singaporeans to impro
 		</td>
 	</tr>
 </table>
+
+
+**Option 2:**
+<hr>
+
+<h2>Our Core Values</h2>
+
+
 
 ![Logos](/images/About%20Us/About%20MTI/AboutMTI%20_Logos.jpg)
