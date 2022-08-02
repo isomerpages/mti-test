@@ -18,7 +18,7 @@ The DEPA includes the following key features:
 <div style="background-color:lightgray;"><strong>Reference Material</strong></div>
 
 <ul>
-	<li><a href="/files/Trade/DEA/DEPA/Digital%20Economy%20Partnership%20Agreement.pdf" style="font-size:70%">Digital Economy Partnership Agreement</a>
+	<li><a href="/files/Trade/DEA/DEPA/Digital%20Economy%20Partnership%20Agreement.pdf" style="font-size:80%">Digital Economy Partnership Agreement</a>
 	</li>
 </ul>
 	
