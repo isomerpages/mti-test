@@ -61,7 +61,7 @@ As a start, businesses in Singapore can participate in the following digitalisat
 *   [SMEs Go Digital](https://www.imda.gov.sg/SMEsGoDigital)
 
 <div>
-<iframe width="100%" frameborder="0" height="515" src="https://www.youtube.com/embed/AeSEpUk7gBY" title="Digital Economy Agreement (DEA) Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="515" src="https://www.youtube.com/embed/AeSEpUk7gBY" title="Digital Economy Agreement (DEA) Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Agreements / Collaborations
