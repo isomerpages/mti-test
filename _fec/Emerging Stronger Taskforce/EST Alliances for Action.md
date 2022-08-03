@@ -99,3 +99,18 @@ The following nine AfAs were formed under the EST:
 		</td>
 	</tr>
 </table>
+
+#### Watch the videos to find out how we can build an exciting and vibrant economy together!
+
+<table>
+	<tr style="border-bottom:hidden">
+		<th style="width:30%"></th>
+		<th></th>
+	</tr>
+	<tr>
+		<td><span style="font-size:120%; font-weight:bold">Alliance for Action on Supply Chain Digitalisation<span></td>
+		<td>
+			<iframe width="100%" height="250" src="https://www.youtube.com/embed/peSpbja3Fc4" title="Emerging Stronger Taskforce’s Supply Chain Digitalisation Alliance for Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</td>
+	</tr>
+</table>
