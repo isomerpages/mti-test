@@ -27,7 +27,7 @@ We hope that the growing momentum achieved by the AfAs will inspire you to joi
 			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSupplyChain.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSupplyChain.png" alt="Supply Chain" style="width:100%; height:100%"></a>
 		</td>
 		<td style="width:33%;text-aligin:center">
-			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainability.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainability.png" alt="Sustainability" style="width:100%; height:100%"></a>
+			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsDigiEnvironment.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsDigiEnvironment.png" alt="Sustainability" style="width:100%; height:100%"></a>
 		</td>
 	</tr>
 </table>
