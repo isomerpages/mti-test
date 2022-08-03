@@ -18,6 +18,6 @@ The CFE’s vision is for us to be the pioneers of the next generation. In the 
 
 Seven mutually-reinforcing strategies were identified to achieve this vision:
 
-Read the [full](https://www.mti.gov.sg/-/media/MTI/Microsites/FEC/PDF/MTIS_Full-Report.pdf) [report](https://www.mti.gov.sg/-/media/MTI/Microsites/FEC/PDF/MTIS_Full-Report.pdf) or read the report as a **[flipbook]**.
+Read the [full report](/files/FEC/The%20FEC/Resources/MTIS_Full%20Report.pdf) or read the report as a **[flipbook]**.
 
 > Any alternative to flipbook?
