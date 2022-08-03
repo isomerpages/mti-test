@@ -20,6 +20,8 @@ sections:
             url: /fec/overview
           - title: The Pro-Enterprise Panel
             url: /pep/about
+          - title: Industry Transformation Maps
+            url: /itms/overview
   - infobar:
       title: Economic Survey of Singapore 2022
       description: Singapore’s economy expanded by 3.7% year-on-year in the first
