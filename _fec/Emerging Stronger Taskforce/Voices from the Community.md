@@ -44,6 +44,23 @@ Faced with ever-evolving challenges in today’s global economy, our AfAs have w
 
 Hear about our stories here.
 
-
-
- 
+<table style="text-align:center">
+	<tr>
+		<th style="width:50%"></th>
+		<th style="width:50%"></th>
+	</tr>
+	<tr style="border-bottom:hidden;">
+		<td><strong>Alliance for Action on Supply Chain Digitalisation</strong></td>
+		<td><strong>Alliance for Action on Digitalising Built Environment</strong></td>
+	</tr>
+	<tr>
+		<td><div><iframe width="100%" height="200" src="https://www.youtube.com/embed/peSpbja3Fc4" title="Emerging Stronger Taskforce’s Supply Chain Digitalisation Alliance for Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
+		<td><div><iframe width="100%" height="200" src="https://www.youtube.com/embed/Tz1sJm32dzI" title="Alliance for Action on Digitalising Built Environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
+	</tr>
+	<tr style="border-bottom:hidden;">
+		<td colspan="2"><strong>Alliance for Action on Robotic</strong></td>
+	</tr>
+	<tr>
+		<td colspan="2"><div ><iframe width="80%" height="300" src="https://www.youtube.com/embed/vAu2Fm0eeK8" title="EST Robotics Alliance for Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
+	</tr>
+</table>
