@@ -17,7 +17,7 @@ Minister of State for Trade and Industry & Culture, Community and Youth, Mr Alvi
 <li><strong>Connectivity Cluster</strong>
 <p style="margin-top: 10px">The Connectivity Cluster is led by the Ministry of Transport (MOT) and oversees transformation in three industries: Air Transport, Land Transport, and Sea Transport.
 
-Senior Minister of State for Transport Mr Chee Hong Tat, and President & CEO of SATS Mr Alexander Charles Hungate co-chair this Cluster.
+Senior Minister of State for Transport Mr Chee Hong Tat, and President & CEO of SATS Mr Alexander Charles Hungate co-chair this Cluster.</p><br>
 	</li>
 <li><strong>Human Health & Potential (HHP) Cluster</strong>
 <p style="margin-top: 10px">The Human Health & Potential Cluster is led by the Ministry of Health (MOH) and the Ministry of Education (MOE), and oversees transformation in two industries: Healthcare and Education.
