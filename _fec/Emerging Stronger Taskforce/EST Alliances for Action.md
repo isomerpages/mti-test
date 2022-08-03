@@ -124,11 +124,11 @@ The following nine AfAs were formed under the EST:
 		<td><div><iframe width="100%" src="https://www.youtube.com/embed/6swBB4Wznyc" title="EST EduTech Alliance for Action - Introductory Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
 	</tr>
 	<tr>
-		<td><strong>Alliance for Action on Robotic</strong></td>
-		<td><strong>Alliance for Action on EduTech</strong></td>
+		<td><strong>Alliance for Action on Enabling Safe and Innovative Visitor Experiences</strong></td>
+		<td><strong>Alliance for Action on Facilitating Smart Commerce</strong></td>
 	</tr>
 	<tr>
-		<td><div></div></td>
-		<td><div></div></td>
+		<td><div><iframe width="100%" src="https://www.youtube.com/embed/xEvMEAOR5xc" title="EST Alliance for Action on Enabling Safe and Innovative Visitor Experiences" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
+		<td><div><iframe width="100%" src="https://www.youtube.com/embed/8ni7fEPzF00" title="Emerging Stronger Taskforce’s Alliance for Action on Facilitating Smart Commerce" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
 	</tr>
 </table>
