@@ -14,7 +14,7 @@ The following nine AfAs were formed under the EST:
 
 <table>
 	<tr style="border-bottom:hidden">
-		<th style="width:25%"></th>
+		<th style="width:20%"></th>
 		<th></th>
 	</tr>
 	<tr>
