@@ -2,7 +2,7 @@ collections:
   fec:
     output: true
     order:
-      - Economics Clusters/.keep
+      - Economic Clusters/.keep
       - The Future Economy Council/.keep
       - The Future Economy Council/Resources.md
       - The Future Economy Council/Press Releases.md
