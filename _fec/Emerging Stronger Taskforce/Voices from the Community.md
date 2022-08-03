@@ -37,3 +37,13 @@ Model Gears Industries Up for Growth</a>
 </table>
 
 > Unable to compress Pebbleroad report below 5MB for EduTech Report above
+
+#### Voices from the Community
+
+Faced with ever-evolving challenges in today’s global economy, our AfAs have worked closely with various sectors and industries to form new partnerships, innovate, develop, and prototype new solutions. Unlocking greater possibilities and opportunities for our people.
+
+Hear about our stories here.
+
+
+
+ 
