@@ -2,6 +2,7 @@ collections:
   fec:
     output: true
     order:
+      - Emerging Stronger Taskforce/.keep
       - The Future Economy Council/.keep
       - The Future Economy Council/Resources.md
       - The Future Economy Council/Press Releases.md
