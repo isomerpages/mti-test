@@ -14,7 +14,7 @@ Learn more on the various areas of collaborations below.
 		<td style="width:30%; padding: 0 10px 30px 0">
 			<img src="/images/Partnerships/Overview/Partnerships%20_OverviewDGP.jpg" style="width:200px;height=100px" alt="DGP">
 		</td>
-		<td style="padding: 0 0 30px 0">
+		<td style="padding: 0 0 30px 0;">
 			<b>France-Singapore Digital and Green Partnership</b>
 			<p>The France-Singapore Digital and Green Partnership (DGP) is part of Singapore’s larger strategy to build a network of international partnerships that enable our companies, especially SMEs, to seize growth opportunities in the fast-growing digital and green economies.</p>
 			<a href="/partnerships/dgp">More Details</a>
