@@ -94,7 +94,7 @@ The following nine AfAs were formed under the EST:
 			<img src="/images/FEC/EST/EST%20Alliances%20for%20Action/EST%20_AlliancesAgriTech.png" alt="AgriTech">
 		</td>
 		<td>
-			<p><strong>9. AgriTech</strong><br>
+			<p><strong>9. AgriTech</strong><br><br>
 			We envision building a world-class Agri-Tech ecosystem as we support Singapore’s food resilience goals, and establish ourselves at the technological frontier to export AgriTech solutions to the world. To do so, we have to address the fundamental problem of scale for local production, charting a possible pathway towards the economic viability of indoor vertical farming.</p>
 		</td>
 	</tr>
