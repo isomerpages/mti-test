@@ -108,14 +108,11 @@ The following nine AfAs were formed under the EST:
 		<th style="width:50%"></th>
 	</tr>
 	<tr>
-		<td><strong>Alliance for Action on Supply Chain Digitalisation</strong><br>
-		<iframe width="100%" height="100%" src="https://www.youtube.com/embed/peSpbja3Fc4" title="Emerging Stronger Taskforce’s Supply Chain Digitalisation Alliance for Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<td><strong>Alliance for Action on Supply Chain Digitalisation</strong><br><br>
+		<div><iframe width="100%" height="100%" src="https://www.youtube.com/embed/peSpbja3Fc4" title="Emerging Stronger Taskforce’s Supply Chain Digitalisation Alliance for Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 		</td>
-	</tr>
-	<tr>
-		<td><span style="font-size:120%; font-weight:bold">Alliance for Action on Digitalising Built Environment:<span></td>
-		<td>
-			<iframe width="100%" height="250" src="https://www.youtube.com/embed/Tz1sJm32dzI" title="Alliance for Action on Digitalising Built Environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<td><strong>Alliance for Action on Digitalising Built Environment<strong><br><br>
+		<div><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Tz1sJm32dzI" title="Alliance for Action on Digitalising Built Environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 			</td>
 	</tr>
 </table>
