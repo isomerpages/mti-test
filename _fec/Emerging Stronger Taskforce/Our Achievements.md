@@ -58,3 +58,15 @@ We hope that the growing momentum achieved by the AfAs will inspire you to joi
 	</td>
 </tr>
 </table>
+
+<hr>
+
+#### Becoming a Virtually Unlimited Singapore
+
+Building on the work of the AfAs, our vision for the future is to become a Virtually Unlimited Singapore. To offer limitless possibilities and opportunities for our businesses, our people, and our nation. To spur our transformation to a Global-Asia node of technology, innovation, and enterprise, even amidst the COVID-19 pandemic.
+
+As a Singapore that is Virtually Unlimited, we can transcend our physical boundaries to become a virtual node, offering new virtual products and services to the world.
+
+As a Sustainable Nation, our economic growth must be sustainable – for the environment, the economy, and our people. We will seize opportunities from sustainability, while ensuring our next bound of growth is inclusive for all segments of society. Powered by a competitive and future-ready local workforce that is complemented by a skilled global workforce, and a strong core of global champions.
+
+All of this can be achieved if we transform the way we work and embrace the belief that we are Stronger Together, through agile partnerships in Singapore and beyond. As we work together to bring our ﬁve recommendations to life, we can be a <b>Virtually Unlimited Singapore</b>.
