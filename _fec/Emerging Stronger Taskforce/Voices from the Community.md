@@ -4,7 +4,7 @@ permalink: /fec/est/Voices-from-the-Community
 description: ""
 third_nav_title: Emerging Stronger Taskforce
 ---
-<table style="text-align:center">
+<table style="text-align:center; vertical-align:middle">
 	<tr style="border-bottom:hidden">
 		<th style="width:50%"></th>
 		<th style="width:50%"></th>
