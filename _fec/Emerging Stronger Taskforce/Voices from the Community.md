@@ -43,7 +43,7 @@ Faced with ever-evolving challenges in today’s global economy, our AfAs have w
 
 Hear about our stories here.
 
-<table style="text-align:center">
+<table style="text-align:center; vertical-align:middle">
 	<tr>
 		<th style="width:50%"></th>
 		<th style="width:50%"></th>
