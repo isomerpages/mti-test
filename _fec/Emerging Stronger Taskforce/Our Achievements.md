@@ -70,3 +70,32 @@ As a Singapore that is Virtually Unlimited, we can transcend our physical bound
 As a Sustainable Nation, our economic growth must be sustainable – for the environment, the economy, and our people. We will seize opportunities from sustainability, while ensuring our next bound of growth is inclusive for all segments of society. Powered by a competitive and future-ready local workforce that is complemented by a skilled global workforce, and a strong core of global champions.
 
 All of this can be achieved if we transform the way we work and embrace the belief that we are Stronger Together, through agile partnerships in Singapore and beyond. As we work together to bring our ﬁve recommendations to life, we can be a <b>Virtually Unlimited Singapore</b>.
+
+<table style="text-align:center">
+	<tr>
+		<th style="width:33%"></th>
+		<th style="width:33%"></th>
+		<th style="width:33%"></th>
+	</tr>
+	<tr>
+		<td>
+			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsVirtual.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsVirtual.png" alt="Virtual Unlimited"></a>
+		</td>
+		<td>
+			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainableNation%20_1.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainableNation%20_1.png" alt="Sustainable Nation"></a>
+		</td>
+		<td>
+			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainableNation%20_2.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainableNation%20_2.png" alt="Sustainable Nation"></a>
+		</td>
+	</tr>
+	<tr>
+	<td>
+		<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsStronger%20_1.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsStronger%20_1.png" alt="Stronger Together"></a>
+	</td>
+	<td>
+		<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsStronger%20_2.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsStronger%20_2.png" alt="Stronger Together"></a>
+	</td>
+	<td>
+	</td>
+</tr>
+</table>
