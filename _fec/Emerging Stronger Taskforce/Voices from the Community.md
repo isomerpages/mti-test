@@ -60,6 +60,6 @@ Hear about our stories here.
 		<td colspan="2"><strong>EST Alliances for Action on Facilitating Smart Commerce</strong></td>
 	</tr>
 	<tr>
-		<td colspan="2"><div style="text-align:center"><iframe width="80%" height="300" src="https://www.youtube.com/embed/EszBU7kEolY" title="EST Alliances for Action on Facilitating Smart Commerce" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
+		<td colspan="2"><div><iframe width="80%" height="300" src="https://www.youtube.com/embed/EszBU7kEolY" title="EST Alliances for Action on Facilitating Smart Commerce" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
 	</tr>
 </table>
