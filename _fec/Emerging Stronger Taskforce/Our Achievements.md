@@ -79,21 +79,21 @@ All of this can be achieved if we transform the way we work and embrace the beli
 	</tr>
 	<tr>
 		<td>
-			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsVirtual.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsVirtual.png" alt="Virtual Unlimited"></a>
+			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsVirtual.png" target="_blank"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsVirtual.png" alt="Virtual Unlimited"></a>
 		</td>
 		<td>
-			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainableNation%20_1.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainableNation%20_1.png" alt="Sustainable Nation"></a>
+			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainableNation%20_1.png" target="_blank"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainableNation%20_1.png" alt="Sustainable Nation"></a>
 		</td>
 		<td>
-			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainableNation%20_2.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainableNation%20_2.png" alt="Sustainable Nation"></a>
+			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainableNation%20_2.png" target="_blank"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainableNation%20_2.png" alt="Sustainable Nation"></a>
 		</td>
 	</tr>
 	<tr>
 	<td>
-		<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsStronger%20_1.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsStronger%20_1.png" alt="Stronger Together"></a>
+		<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsStronger%20_1.png" target="_blank"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsStronger%20_1.png" alt="Stronger Together"></a>
 	</td>
 	<td>
-		<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsStronger%20_2.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsStronger%20_2.png" alt="Stronger Together"></a>
+		<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsStronger%20_2.png" target="_blank"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsStronger%20_2.png" alt="Stronger Together"></a>
 	</td>
 	<td>
 	</td>
