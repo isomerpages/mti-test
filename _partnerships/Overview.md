@@ -21,10 +21,10 @@ Learn more on the various areas of collaborations below.
 		</td>
 	</tr>
 	<tr>
-		<td style="width:30%; padding: 30px 10px 30px 0">
+		<td style="width:30%; padding: 30px 10px 0 0">
 			<img src="/images/Partnerships/Overview/Partnerships%20_OverviewPGI.jpg" style="width:200px;height=100px" alt="PGI">
 		</td>
-		<td style="padding: 30px 0 30px 0">
+		<td style="padding: 30px 0 0 0">
 			<strong>US-Singapore Partnership for Growth and Innovation</strong>
 			<p>The US-Singapore Partnership for Growth and Innovation (PGI) aims to increase collaboration between US and Singapore companies by strengthening trade and investment collaboration in new and forward-looking areas, starting with (i) digital economy and smart cities; (ii) advanced manufacturing and supply chains; (iii) clean energy and environmental technologies; and (iv) healthcare.</p>
 			<a href="/partnerships/pgi">More Details</a>
