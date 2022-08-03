@@ -2,9 +2,9 @@ collections:
   fec:
     output: true
     order:
-      - Economic Cluster.md
       - The Future Economy Council/.keep
       - The Future Economy Council/Resources.md
       - The Future Economy Council/Press Releases.md
+      - Economic Cluster.md
       - Emerging Stronger Taskforce/.keep
       - The Alliances for Action (AfA)/.keep
