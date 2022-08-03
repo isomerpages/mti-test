@@ -18,6 +18,7 @@ BCG Digital Ventures</a>
 			<a href="/files/FEC/EST/Voices%20from%20the%20Community/JTC%20Article.pdf"><img src="/images/FEC/EST/Voices%20from%20the%20Community/EST%20_VoicesJTC.jpeg" alt="JTC">Singapore's Private-public Partnership
 Model Gears Industries Up for Growth</a>
 		</td>
+	</tr>
 		<tr style="border-bottom:hidden">
 		<td style="padding:10%">
 			<a href="/files/FEC/EST/Voices%20from%20the%20Community/Supply%20Chain%20Digitalisation_PwC.pdf"><img src="/images/FEC/EST/Voices%20from%20the%20Community/EST%20_VoicesSupplyChain.jpeg" alt="Supply Chain">Supply Chain Digitalisation</a>
