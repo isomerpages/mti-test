@@ -14,7 +14,7 @@ Chaired by Minister for National Development and Minister-in-charge of Social Se
 
 #### Sharing the spirit of Singapore Together
 <br>
-<a href="https://www.sg" target="_blank"><img src="/images/FEC/EST/EST%20_SGTogether.png" alt="SG Together" style="width:50%; height:100%; display:block"></a>
+<a href="https://www.sg"><img src="/images/FEC/EST/EST%20_SGTogether.png" alt="SG Together" style="width:50%; height:100%; display:block"></a>
 
 The EST was part of Singapore Together, which was launched in 2019 with the vision for Singaporeans to partner with the Government, and with one another, to own, shape and act on our shared future together. Singapore Together also aims to open up more partnership opportunities for Singaporeans, and support more citizen-led initiatives.
 
