@@ -11,17 +11,14 @@ The work of the Future Economy Council is supported by seven Clusters, each co-c
 
 <ol>
 <li><strong>Advanced Manufacturing & Trade (AMT) Cluster</strong>
-<p>The Advanced Manufacturing & Trade Cluster is led by the Singapore Economic Development Board (EDB) and oversees transformation in eight industries: Aerospace, Energy & Chemicals, Electronics, Precision Engineering, Marine & Offshore, Food Manufacturing, Logistics and Wholesale Trade.
-	
+<p>The Advanced Manufacturing & Trade Cluster is led by the Singapore Economic Development Board (EDB) and oversees transformation in eight industries: Aerospace, Energy & Chemicals, Electronics, Precision Engineering, Marine & Offshore, Food Manufacturing, Logistics and Wholesale Trade.<br><br>
 Minister of State for Trade and Industry & Culture, Community and Youth, Mr Alvin Tan, and Corporate Vice President & Country Manager of Micron, Mr Chen Kok Sing, co-chair this Cluster.</p>
 </li>
- 	 
-2. Connectivity Cluster
-
-The Connectivity Cluster is led by the Ministry of Transport (MOT) and oversees transformation in three industries: Air Transport, Land Transport, and Sea Transport.
+<li><strong>Connectivity Cluster</strong>
+<p>The Connectivity Cluster is led by the Ministry of Transport (MOT) and oversees transformation in three industries: Air Transport, Land Transport, and Sea Transport.
 
 Senior Minister of State for Transport Mr Chee Hong Tat, and President & CEO of SATS Mr Alexander Charles Hungate co-chair this Cluster.
-
+	</li>
  	 
 3. Human Health & Potential (HHP) Cluster
 
