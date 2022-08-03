@@ -18,16 +18,43 @@ We hope that the growing momentum achieved by the AfAs will inspire you to joi
 
 [View Full Report Here](/files/FEC/EST/EST%20Report_Single%20Page_compressed.pdf)
 
-<table>
+<table style="text-align:center">
 	<tr>
-		<td style="width:33%;text-aligin:center">
-			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainability.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainability.png" alt="Sustainability" style="width:100%; height:100%"></a>
+		<th style="width:33%"></th>
+		<th style="width:33%"></th>
+		<th style="width:33%"></th>
+	</tr>
+	<tr>
+		<td>
+			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainability.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSustainability.png" alt="Sustainability"></a>
 		</td>
-		<td style="width:33%;text-aligin:center">
-			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSupplyChain.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSupplyChain.png" alt="Supply Chain" style="width:100%; height:100%"></a>
+		<td>
+			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSupplyChain.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSupplyChain.png" alt="Supply Chain"></a>
 		</td>
-		<td style="width:33%;text-aligin:center">
-			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsDigiEnvironment.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsDigiEnvironment.png" alt="Sustainability" style="width:100%; height:100%"></a>
+		<td>
+			<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsDigiEnvironment.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsDigiEnvironment.png" alt="Digitalising Built Environment"></a>
 		</td>
 	</tr>
+	<tr>
+	<td>
+		<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSmartCommerce.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsSmartCommerce.png" alt="Facilitating Smart Commerce"></a>
+	</td>
+	<td>
+		<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsRobotics.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsRobotics.png" alt="Robotics"></a>
+	</td>
+	<td>
+		<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsVisitorExp.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsVisitorExp.png" alt="Visitor Experience"></a>
+	</td>
+</tr>
+<tr>
+	<td>
+		<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsEduTech.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsEduTech.png" alt="EduTech"></a>
+	</td>
+	<td>
+		<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsMedTech.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsMedTech.png" alt="MedTech"></a>
+	</td>
+	<td>
+		<a href="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsAgriTech.png"><img src="/images/FEC/EST/Our%20Achievements/EST%20_AchievementsAgriTech.png" alt="AgriTech"></a>
+	</td>
+</tr>
 </table>
