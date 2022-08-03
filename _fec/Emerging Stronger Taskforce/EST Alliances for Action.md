@@ -23,7 +23,7 @@ The following nine AfAs were formed under the EST:
 		</td>
 		<td>
 			<strong>1. Digitalising the Built Environment</strong>
-<p>Digitalisation has been a key thrust of the Industry Transformation Maps (ITMs) under the Future Economy Council (FEC)’s Built Environment (BE) Cluster. Even as the industry copes with the challenges arising from COVID-19, the crisis has increased collaboration across all parts of the BE value chain. This is thus a window of opportunity to accelerate the digitalisation push to raise productivity across the BE value chain – from concept and design, to construction and site management, and facilities management.</p>
+<div>Digitalisation has been a key thrust of the Industry Transformation Maps (ITMs) under the Future Economy Council (FEC)’s Built Environment (BE) Cluster. Even as the industry copes with the challenges arising from COVID-19, the crisis has increased collaboration across all parts of the BE value chain. This is thus a window of opportunity to accelerate the digitalisation push to raise productivity across the BE value chain – from concept and design, to construction and site management, and facilities management.</div>
 		</td>
 	</tr>
 </table>
