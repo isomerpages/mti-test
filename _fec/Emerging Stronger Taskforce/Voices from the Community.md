@@ -50,15 +50,15 @@ Hear about our stories here.
 		<th style="width:50%"></th>
 	</tr>
 	<tr style="border-bottom:hidden;">
-		<td><strong>Alliance for Action on Supply Chain Digitalisation</strong></td>
-		<td><strong>Alliance for Action on Digitalising Built Environment</strong></td>
+		<td><strong>Proposed Agenda for Action to Develop a Virtually Unlimited Singapore</strong></td>
+		<td><strong>EST Alliances for Action on Enabling Safe and Innovative Visitor Experiences</strong></td>
 	</tr>
 	<tr>
-		<td><div><iframe width="100%" height="200" src="https://www.youtube.com/embed/peSpbja3Fc4" title="Emerging Stronger Taskforce’s Supply Chain Digitalisation Alliance for Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
-		<td><div><iframe width="100%" height="200" src="https://www.youtube.com/embed/Tz1sJm32dzI" title="Alliance for Action on Digitalising Built Environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
+		<td><div><iframe width="100%" height="200" src="https://www.youtube.com/embed/fRtWqwvMUk4" title="EST Proposes Agenda for Action for a Virtually Unlimited Singapore" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
+		<td><div><iframe width="100%" height="200" src="https://www.youtube.com/embed/J3TCrKOvQ8E" title="EST Alliances for Action on Enabling Safe and Innovative Visitor Experiences (MICE)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
 	</tr>
 	<tr style="border-bottom:hidden;">
-		<td colspan="2"><strong>Alliance for Action on Robotic</strong></td>
+		<td colspan="2"><strong>EST Alliances for Action on Facilitating Smart Commerce</strong></td>
 	</tr>
 	<tr>
 		<td colspan="2"><div ><iframe width="80%" height="300" src="https://www.youtube.com/embed/vAu2Fm0eeK8" title="EST Robotics Alliance for Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
