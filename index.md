@@ -59,6 +59,7 @@ sections:
       button: Learn More
       url: https://www.mof.gov.sg/singaporebudget
       alt: Budget 2022
+      image: /images/Home/HomePage _Budget2022.jpg
   - resources:
       title: Resources
       button: View More
