@@ -54,6 +54,13 @@ sections:
       url: https://www.ema.gov.sg/oem-retailer-exit-consumer-safeguards.aspx
       alt: Safeguards for Consumers
       image: /images/Home/Home _SafeguardsElectricity.jpg
+  - infopic:
+      title: Budget 2022
+      subtitle: Ministry of Finance
+      description: Charting Our New Way Forward Together
+      button: Learn More
+      url: https://www.mof.gov.sg/singaporebudget
+      alt: Budget 2022
   - resources:
       title: Resources
       button: View More
