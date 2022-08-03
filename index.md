@@ -17,7 +17,7 @@ sections:
           - title: Committee of Supply (COS) 2022
             url: /cos-2022/committee-of-supply-2022/overview
           - title: Future Economy Council
-            url: /fec/overview
+            url: /fec/the-future-economy-council/resources
           - title: The Pro-Enterprise Panel
             url: /pep/about
           - title: Industry Transformation Maps
