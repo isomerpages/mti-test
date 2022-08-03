@@ -4,6 +4,8 @@ permalink: /fec/The-Future-Economy-Council/resources
 description: ""
 third_nav_title: The Future Economy Council
 ---
+![Banner](/images/FEC/fec%20_banner.jpg)
+
 **1\. Leaders of Transformation**
 
 Innovation, skills upgrading, productivity and internationalisation - these are some of the key ingredients of industry transformation. 26 companies have taken the bold step to transform , taking the lead in their respective industries to challenge the way things have always been done.  
