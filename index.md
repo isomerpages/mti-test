@@ -11,19 +11,9 @@ sections:
       subtitle: A leading global city of enterprise and talent, a vibrant nation of
         innovation and opportunity
       background: /images/Home/Homepage _Banner.jpg
-      key_highlights:
-        - title: Committee of Supply (COS) 2022
-          description: Singapore Economy 2030
-          url: /cos-2022/committee-of-supply-2022/overview
-        - title: Singapore-India Economic Agreement
-          description: CECA
-          url: https://gmail.com
-        - title: Digital Economy Agreements
-          description: Digital Trade
-          url: /trade/digital-economy-agreements/overview
-        - title: Budget 2022
-          description: Charting our new way forward
-          url: https://www.mof.gov.sg/singaporebudget
+      dropdown:
+        title: Jump to ...
+        options: []
   - infobar:
       title: Economic Survey of Singapore 2022
       description: Singapore’s economy expanded by 3.7% year-on-year in the first
