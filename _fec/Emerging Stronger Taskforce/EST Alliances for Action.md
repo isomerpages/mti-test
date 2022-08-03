@@ -107,20 +107,28 @@ The following nine AfAs were formed under the EST:
 		<th style="width:50%"></th>
 		<th style="width:50%"></th>
 	</tr>
-	<tr>
-		<td><strong>Alliance for Action on Supply Chain Digitalisation</strong><br><br>
-		<div><iframe width="100%" src="https://www.youtube.com/embed/peSpbja3Fc4" title="Emerging Stronger Taskforce’s Supply Chain Digitalisation Alliance for Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-		</td>
-		<td><strong>Alliance for Action on Digitalising Built Environment<strong><br><br>
-		<div><iframe width="100%" src="https://www.youtube.com/embed/Tz1sJm32dzI" title="Alliance for Action on Digitalising Built Environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-			</td>
+	<tr style="bottom-border:hidden;">
+		<td><strong>Alliance for Action on Supply Chain Digitalisation</strong></td>
+		<td><strong>Alliance for Action on Digitalising Built Environment</strong></td>
 	</tr>
 	<tr>
-		<td><strong>Alliance for Action on Supply Chain Digitalisation</strong><br><br>
-		<div><iframe width="100%" src="https://www.youtube.com/embed/peSpbja3Fc4" title="Emerging Stronger Taskforce’s Supply Chain Digitalisation Alliance for Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-		</td>
-		<td><strong>Alliance for Action on Digitalising Built Environment<strong><br><br>
-		<div><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Tz1sJm32dzI" title="Alliance for Action on Digitalising Built Environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-			</td>
+		<td><div><iframe width="100%" src="https://www.youtube.com/embed/peSpbja3Fc4" title="Emerging Stronger Taskforce’s Supply Chain Digitalisation Alliance for Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
+		<td><div><iframe width="100%" src="https://www.youtube.com/embed/Tz1sJm32dzI" title="Alliance for Action on Digitalising Built Environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
+	</tr>
+	<tr>
+		<td><strong>Alliance for Action on Robotic</strong></td>
+		<td><strong>Alliance for Action on EduTech</strong></td>
+	</tr>
+	<tr>
+		<td><div><iframe width="100%" src="https://www.youtube.com/embed/vAu2Fm0eeK8" title="EST Robotics Alliance for Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
+		<td><div><iframe width="100%" src="https://www.youtube.com/embed/6swBB4Wznyc" title="EST EduTech Alliance for Action - Introductory Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></td>
+	</tr>
+	<tr>
+		<td><strong>Alliance for Action on Robotic</strong></td>
+		<td><strong>Alliance for Action on EduTech</strong></td>
+	</tr>
+	<tr>
+		<td><div></div></td>
+		<td><div></div></td>
 	</tr>
 </table>
