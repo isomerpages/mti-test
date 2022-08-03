@@ -2,4 +2,5 @@ collections:
   fec:
     output: true
     order:
+      - The Future Economy Council/Resources.md
       - The Future Economy Council/.keep
