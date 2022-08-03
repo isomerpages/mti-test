@@ -13,7 +13,13 @@ sections:
       background: /images/Home/Homepage _Banner.jpg
       dropdown:
         title: Jump to ...
-        options: []
+        options:
+          - title: Committee of Supply (COS) 2022
+            url: /cos-2022/committee-of-supply-2022/overview
+          - title: Future Economy Council
+            url: /fec/overview
+          - title: The Pro-Enterprise Panel
+            url: /pep/about
   - infobar:
       title: Economic Survey of Singapore 2022
       description: Singapore’s economy expanded by 3.7% year-on-year in the first
