@@ -12,7 +12,7 @@ Learn more on the various areas of collaborations below.
 <table style="width:100%">
 	<tr>
 		<td style="width:35%; padding: 0 10px 30px 0">
-			<img src="/images/Partnerships/Overview/Partnerships%20_OverviewDGP.jpg" style="width:200px;height=100px" alt="DGP">
+			<img src="/images/Partnerships/Overview/Partnerships%20_OverviewDGP.jpg" style="width:250px;height=100px" alt="DGP">
 		</td>
 		<td style="padding: 0 0 30px 0; font-size:90%">
 			<strong>France-Singapore Digital and Green Partnership</strong><br><br>
@@ -22,7 +22,7 @@ Learn more on the various areas of collaborations below.
 	</tr>
 	<tr>
 		<td style="width:35%; padding: 30px 10px 0 0">
-			<img src="/images/Partnerships/Overview/Partnerships%20_OverviewPGI.jpg" style="width:200px;height=100px" alt="PGI">
+			<img src="/images/Partnerships/Overview/Partnerships%20_OverviewPGI.jpg" style="width:250px;height=100px" alt="PGI">
 		</td>
 		<td style="padding: 30px 0 0 0; font-size:90%">
 			<b>US-Singapore Partnership for Growth and Innovation</b><br><br>
