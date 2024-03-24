@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Key Economic Indicators (New).md
       - Key Economic Indicators.md
       - COVID19 Updates For Businesses/.keep
       - COVID19 Updates For Businesses/Latest Updates.md
